@@ -1,0 +1,160 @@
+html > body, h1, h2 {
+    font-family: 'Lato', 'Roboto', 'Arial', sans-serif !important;
+}
+
+a {
+	text-decoration: none;
+    font-weight: bold;
+}
+
+.main-title {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  text-align: center;
+  top: 38.5%;
+  left: 50%;
+  -webkit-transform: translate3d(-50%, -50%, 0);
+  transform: translate3d(-50%, -50%, 0);
+}
+
+.main-title > h1 {
+    letter-spacing: 5px;
+    font-size: 42px;
+}
+
+.main-title > h2 {
+    font-size: 18px;
+}
+
+.mdl-layout__drawer, .mdl-layout__header {
+    background-color: #2b2b2b;
+}
+
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link {
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover {
+    background-color: #aaa;
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+.mdl-card {
+    font-family: 'Lato', 'Roboto', 'Arial', sans-serif !important;
+    width: 100%;
+    min-height: 10px;
+    height: 100%;
+}
+
+.card .mdl-card__supporting-text {
+    padding: 1rem;
+    width: auto;
+    text-align: justify;
+}
+
+.card .mdl-card__supporting-text p, li {
+    font-size: 16px;
+}
+
+.card .mdl-card__supporting-text img {
+    width: 100%;
+}
+
+.card .mdl-card__title {
+	color: #fff;
+	height: 120px;
+}
+
+.mdl-card h1 {
+    font-size: 1.5em;
+    line-height: normal;
+    margin: 0.25em 0;
+}
+
+.mdl-card h2 {
+    font-size: 1.3em;
+    margin: 0;
+    line-height: normal;
+    margin: 0.25em 0;
+}
+
+.mdl-card h3 {
+    font-size: 1.1em;
+    font-weight: 500;
+    line-height: normal;
+    margin: 0.25em 0;
+}
+
+.mdl-card__actions {
+    margin-top: auto;
+}
+
+.mdl-button--primary img {
+	margin: auto 0.5em auto 0;
+}
+
+.mdl-mini-footer {
+    padding: 1em;
+}
+
+.mdl-mini-footer a {
+    font-weight: bold;
+    color: #ddd;
+}
+
+.mdl-mini-footer a:hover {
+    color: #fff;
+}
+
+.basic-info {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.basic-info h1 {
+    font-size: 1.6rem;
+    line-height: normal;
+    margin: 0.5em 0;
+}
+
+.basic-info .face {
+    max-width: 200px;
+    margin: 20px 60px;
+}
+
+.basic-info .address p{
+    font-size: 1.2em;
+}
+
+#back {
+	margin: 5px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+code {
+    margin: 8px;
+    padding: 1px 1em;
+}
+
+.spaced {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1024px) {
+.mdl-layout__tab-bar {
+    width: calc(100% - 120px);
+    padding: 0 0 0 60px;
+}
+}

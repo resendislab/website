@@ -1,0 +1,7 @@
+baseurl = "resendislab.github.io"
+languageCode = "en-us"
+title = "Webpage of the Resendis Lab"
+
+[params]
+    mdlversion = "1.2.1"
+    mdltheme = "indigo-green"

@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<div class="page-content mdl-grid">
+{{ range where .Data.Pages "Section" "projects" }}
+<div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--8-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
+<div class="mdl-card mdl-shadow--4dp">
+<div class="mdl-card__supporting-text">
+<h1 class="mdl-color-text--primary">{{ .Title }}</h1>
+<h2 class="mdl-color-text--green-600">Members:&nbsp;{{ delimit .Params.people ", " }}</h2>
+<p>{{ .Content }}</p>
+</div>
+</div>
+</div>
+{{end}}
+</div>
+{{ partial "footer.html" . }}
