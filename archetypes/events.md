@@ -1,7 +1,9 @@
 +++
-end_date = ""
+date = ""
+end = ""
 title = ""
-gps = "19.2864563,-99.1525233"
+place = "inmegen"
+webpage = "https://"
 +++
 
 Put your event description here!

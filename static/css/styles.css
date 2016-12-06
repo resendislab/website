@@ -1,4 +1,4 @@
-html > body, h1, h2 {
+html > body, h1, h2, .mdl-button {
     font-family: 'Lato', 'Roboto', 'Arial', sans-serif !important;
 }
 
@@ -44,6 +44,10 @@ a {
     font-size: 1.15rem;
 }
 
+.mdl-grid {
+    max-width: 1400px;
+}
+
 .mdl-card {
     font-family: 'Lato', 'Roboto', 'Arial', sans-serif !important;
     width: 100%;
@@ -57,34 +61,35 @@ a {
     text-align: justify;
 }
 
-.card .mdl-card__supporting-text p, li {
+.mdl-card__supporting-text p, li {
     font-size: 16px;
 }
 
-.card .mdl-card__supporting-text img {
+.mdl-card__supporting-text img {
     width: 100%;
 }
 
 .card .mdl-card__title {
 	color: #fff;
+    background-color: #263238;
 	height: 120px;
 }
 
-.mdl-card h1 {
-    font-size: 1.5em;
+.mdl-card__supporting-text  h1 {
+    font-size: 20px;
     line-height: normal;
     margin: 0.25em 0;
 }
 
-.mdl-card h2 {
-    font-size: 1.3em;
+.mdl-card__supporting-text h2 {
+    font-size: 18px;
     margin: 0;
     line-height: normal;
     margin: 0.25em 0;
 }
 
-.mdl-card h3 {
-    font-size: 1.1em;
+.mdl-card__supporting-text h3 {
+    font-size: 16px;
     font-weight: 500;
     line-height: normal;
     margin: 0.25em 0;
@@ -142,11 +147,6 @@ table {
     margin-right: auto;
 }
 
-code {
-    margin: 8px;
-    padding: 1px 1em;
-}
-
 .spaced {
     display: flex;
     justify-content: space-between;
@@ -157,4 +157,27 @@ code {
     width: calc(100% - 120px);
     padding: 0 0 0 60px;
 }
+}
+
+.mdl-button {
+    font-weight: bold;
+}
+
+.basic-info {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.basic-info > div {
+    text-align: center;
+    width: 250px;
+}
+
+.basic-info .face {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 1em;
 }

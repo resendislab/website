@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+{{ $year := string .Now.Year}}
+<div class="page-content mdl-grid">
+<div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
+  <div class="mdl-tabs__tab-bar">
+      {{ range .Data.Pages.GroupByDate "2006" }}
+      <a href="#{{.Key}}" class="mdl-tabs__tab {{if eq .Key $year}}is-active{{end}}">{{.Key}}</a>
+      {{end}}
+  </div>
+{{ range .Data.Pages.GroupByDate "2006" }}
+<div class="mdl-tabs__panel {{if eq .Key $year}}is-active{{end}}" id="{{.Key}}">
+<br>
+{{ range .Pages }}
+<div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
+<div class="mdl-card mdl-shadow--4dp">
+<div class="mdl-card__supporting-text">
+<h1 class="mdl-color-text--primary">{{ .Title }}</h1>
+<h2 class="mdl-color-text--teal-500">{{ .Date.Format "02-01-2006" }}&nbsp;to&nbsp;{{ dateFormat "02-01-2006" .Params.end }}</h2>
+<br>{{ .Content }}
+</div>
+<div class="mdl-card__actions mdl-card--border">
+<a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect"
+    href="https://google.com/maps/place/{{.Params.place}}"><i class="material-icons">map</i>&nbsp;Map</a>
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect"
+        href="{{.Params.webpage}}"><i class="material-icons">link</i>&nbsp;Webpage</a>
+</div>
+</div>
+</div>
+{{end}}
+</div>
+{{end}}
+</div></div>
+{{ partial "footer.html" . }}

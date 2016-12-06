@@ -8,13 +8,17 @@
 <div class="mdl-tabs__panel is-active" id="articles">
 <br>
 {{ range where .Data.Pages "Params.what" "article"}}
-<div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--8-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
+<div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
 <div class="mdl-card mdl-shadow--4dp">
 <div class="mdl-card__supporting-text">
 <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
-<h3 class="mdl-color-text--gray">{{ .Params.journal }}&nbsp;-&nbsp;{{ .Date.Year }}</h3>
-<h2 class="mdl-color-text--green-600">{{ delimit .Params.authors ", " " and "}}</h2>
+<h3 class="mdl-color-text--gray">{{ title .Params.journal }}&nbsp;{{ .Date.Year }}</h3>
+<h2 class="mdl-color-text--teal-500">{{ delimit .Params.authors ", " " and "}}</h2>
 {{ if .Content }}<p>{{ .Content }}</p>{{ end }}
+</div>
+<div class="mdl-card__actions mdl-card--border">
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://doi.org/{{.Params.doi}}">Full Article</a>
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://www.ncbi.nlm.nih.gov/pubmed/{{.Params.pubmed}}">PubMed</a>
 </div>
 </div>
 </div>
@@ -23,13 +27,13 @@
 <div class="mdl-tabs__panel" id="books">
 <br>
 {{ range where .Data.Pages "Params.what" "book"}}
-<div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--8-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
+<div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
 <div class="mdl-card mdl-shadow--4dp">
 <div class="mdl-card__supporting-text">
 <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
 <h3 class="mdl-color-text--gray">{{ .Date.Year }}</h3>
-<h2 class="mdl-color-text--green-600">{{ delimit .Params.authors ", " " and "}}</h2>
-{{ if .Content }}<p>{{ .Content }}</p>{{ end }}
+<h2 class="mdl-color-text--teal-500">{{ delimit .Params.authors ", " " and "}}</h2>
+{{ if .Content }}<br>{{ .Content }}{{ end }}
 </div>
 </div>
 </div>

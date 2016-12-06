@@ -2,7 +2,7 @@
 authors = ["First Author", "Second Author"]
 title = ""
 journal = ""
-type = "article"
+what = "article"
 doi = ""
 pubmed = ""
 +++
