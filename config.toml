@@ -1,6 +1,7 @@
 baseurl = "resendislab.github.io"
 languageCode = "en-us"
 title = "Webpage of the Resendis Lab"
+relativeURLs = true
 
 [params]
     mdlversion = "1.2.1"

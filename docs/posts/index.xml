@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts-rsses on Webpage of the Resendis Lab</title>
+    <link>resendislab.github.io/posts/index.xml</link>
+    <description>Recent content in Posts-rsses on Webpage of the Resendis Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Dec 2016 09:19:57 -0600</lastBuildDate>
+    <atom:link href="resendislab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>/resendislab.github.io/posts/test/</link>
+      <pubDate>Tue, 06 Dec 2016 09:19:57 -0600</pubDate>
+      
+      <guid>/resendislab.github.io/posts/test/</guid>
+      <description>&lt;h2 id=&#34;this-is-an-example-post&#34;&gt;This is an example post&lt;/h2&gt;
+
+&lt;p&gt;Please substitute all text below &amp;ldquo;+++&amp;rdquo; with your own!&lt;/p&gt;
+
+&lt;p&gt;
+$$
+\int_a^b e^{2\pi\cdot x} dx
+$$&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;library(data.table)
+df &amp;lt;- data.table(x=1:10)
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
