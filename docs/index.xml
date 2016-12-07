@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webpage of the Resendis Lab</title>
-    <link>resendislab.github.io/index.xml</link>
+    <link>https://resendislab.github.io/index.xml</link>
     <description>Recent content on Webpage of the Resendis Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Dec 2016 09:19:57 -0600</lastBuildDate>
-    <atom:link href="resendislab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://resendislab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
-      <link>/resendislab.github.io/posts/test/</link>
+      <link>https://resendislab.github.io/posts/test/</link>
       <pubDate>Tue, 06 Dec 2016 09:19:57 -0600</pubDate>
       
-      <guid>/resendislab.github.io/posts/test/</guid>
+      <guid>https://resendislab.github.io/posts/test/</guid>
       <description>&lt;h2 id=&#34;this-is-an-example-post&#34;&gt;This is an example post&lt;/h2&gt;
 
 &lt;p&gt;Please substitute all text below &amp;ldquo;+++&amp;rdquo; with your own!&lt;/p&gt;
@@ -31,10 +31,10 @@ df &amp;lt;- data.table(x=1:10)
     
     <item>
       <title>In silico study of metabolic reprogramming during epithelial-mesenchymal transition</title>
-      <link>/resendislab.github.io/projects/emt/</link>
+      <link>https://resendislab.github.io/projects/emt/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/projects/emt/</guid>
+      <guid>https://resendislab.github.io/projects/emt/</guid>
       <description>&lt;p&gt;An epithelial-mesenchymal transition (EMT) is a biologic process that allows a polarized epithelial cell, which normally interacts with basement membrane via its basal surface, to undergo multiple biochemical changes that enable it to assume a mesenchymal cell phenotype, which includes enhanced migratory capacity, invasiveness, elevated resistance to apoptosis, and greatly increased production of ECM components. EMT induces invasive properties in epithelial tumors and promotes metastasis. Although EMT-mediated cellular and molecular changes are well understood, very little is known about EMT-induced metabolic changes.&lt;/p&gt;
 
 &lt;p&gt;The project combine high-throughput data to understand metabolic changes before and after EMT in lung cancer cell lines. In particular to find main fluxes used during EMT.  To that extent we employ methods from bioinformatics and Systems Biology. Our goal is to found specific targets which could stop  or reverse EMT in cancer cells.&lt;/p&gt;
@@ -43,10 +43,10 @@ df &amp;lt;- data.table(x=1:10)
     
     <item>
       <title>Integrating transcriptomic and metabolomic to understand hepatocellular carcinoma in a rat model</title>
-      <link>/resendislab.github.io/projects/hepato/</link>
+      <link>https://resendislab.github.io/projects/hepato/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/projects/hepato/</guid>
+      <guid>https://resendislab.github.io/projects/hepato/</guid>
       <description>&lt;p&gt;Hepatocellular carcinoma (HCC) is now the third leading cause of cancer deaths worldwide, with over 500,000 people affected. It occurs predominantly in patients with underlying chronic liver disease and cirrhosis. Despite this, knowledge about the metabolic states of this disease is limited.
 Using a rat model that recreates some of the most important characteristics of HCC, including cirrhosis, we aim to understand the metabolic state when compared to healthy liver. To this end we will integrate transcriptomic and metabolic data in a systems biology framework that point us changes in reactions.
 This data would not only helped us identify reactions important to maintain the cancerous state but also help us survey the regulatory mechanism this is achieved.&lt;/p&gt;
@@ -55,10 +55,10 @@ This data would not only helped us identify reactions important to maintain the 
     
     <item>
       <title>Metabolic heterogeneity in cancer and its applications in Personalized Medicine</title>
-      <link>/resendislab.github.io/projects/prolif/</link>
+      <link>https://resendislab.github.io/projects/prolif/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/projects/prolif/</guid>
+      <guid>https://resendislab.github.io/projects/prolif/</guid>
       <description>&lt;p&gt;Cancer is a very heterogeneous disease and tumors can differ greatly across and within different cancer types. Consequently, cancer is not a single disease but thousands. One property shared by all cancers is the ability to sustain chronic uncontrolled proliferation which raises the question how different cancers alter their metabolism in order to achieve consistent proliferation.&lt;/p&gt;
 
 &lt;p&gt;In this project we combine large-scale genomic data from DNA and RNA sequencing as well as proteomics and metabolomics to understand the connection between variations in the genotype and cancer metabolism. In particular we are asking the question whether distinct genomic aberrations such as mutations or changes in transcription can be related to respective changes in cellular metabolism. To that extent we employ methods from Systems Biology as well as from Data Science and Machine Learning in order to connect genetic information to specific metabolic phenotypes.&lt;/p&gt;
@@ -69,10 +69,10 @@ This data would not only helped us identify reactions important to maintain the 
     
     <item>
       <title>The impact of the microRNAs in the metabolic reprogramming of the MCF-7 cells during the spheroids development</title>
-      <link>/resendislab.github.io/projects/spheroids/</link>
+      <link>https://resendislab.github.io/projects/spheroids/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/projects/spheroids/</guid>
+      <guid>https://resendislab.github.io/projects/spheroids/</guid>
       <description>&lt;p&gt;Alterations in the metabolism are a common property in cancer cells, so that, many efforts have been directed to develop models to understand the mechanism by which cancer cells behave differently compared to normal tissues. In recent years, it has been reported that microRNAs (miRNAs) are involved in the regulation of all biological process, and there are evidences that shown its dysregulation play an important role in the development and progression of cancer. Hence, generate models that allow the integration of  miRNAs regulation in cancer metabolism will allow us to analyze in a systematically and systemic manner the relations and potential mechanism underlying between miRNAs and central pathways of metabolism.&lt;/p&gt;
 
 &lt;p&gt;It is imperative to know the mechanism governing the pathogenesis and progression of cancer to design therapies with greater impact on diagnosis and disease progression. So, this project aims to suggest mechanism that trigger the metabolic change in a breast cancer cell line (MCF-7), integrating miRNAs network. To this end, we propose to develop a scheme of systems biology, which allow us to make an integrative analysis of regulatory networks of miRNAs and metabolism in MCF-7. This approach will allow us to develop models capable of identifying potential therapeutic targets with greater impact, biomarkers that allow early detection of cancer and penetrate in global mechanism in clinical cases.&lt;/p&gt;
@@ -81,10 +81,10 @@ This data would not only helped us identify reactions important to maintain the 
     
     <item>
       <title>Who we are</title>
-      <link>/resendislab.github.io/about/we/</link>
+      <link>https://resendislab.github.io/about/we/</link>
       <pubDate>Mon, 05 Dec 2016 14:48:16 -0600</pubDate>
       
-      <guid>/resendislab.github.io/about/we/</guid>
+      <guid>https://resendislab.github.io/about/we/</guid>
       <description>&lt;p&gt;Some info blabla.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./media/group.png&#34; alt=&#34;What we do&#34; /&gt;&lt;/p&gt;
@@ -93,19 +93,19 @@ This data would not only helped us identify reactions important to maintain the 
     
     <item>
       <title>Evolution of Centrality Measurements for the Detection of Essential Proteins in Biological Networks.</title>
-      <link>/resendislab.github.io/pubs/PM27616995/</link>
+      <link>https://resendislab.github.io/pubs/PM27616995/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/pubs/PM27616995/</guid>
+      <guid>https://resendislab.github.io/pubs/PM27616995/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2nd International Summer Symposium on Systems Biology</title>
-      <link>/resendislab.github.io/events/is3b/</link>
+      <link>https://resendislab.github.io/events/is3b/</link>
       <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/events/is3b/</guid>
+      <guid>https://resendislab.github.io/events/is3b/</guid>
       <description>&lt;p&gt;With great pleasure we are hereby announcing the 2nd International Summer Symposium on Systems Biology (IS3B) taking place in Mexico City, Mexico from August 2nd - 4th 2016. The IS3B 2016 is organized by The Human Systems Biology Laboratory (HSBL), RAI-UNAM &amp;amp; INMEGEN.&lt;/p&gt;
 
 &lt;p&gt;The IS3B is currently the largest symposium on Systems Biology in Mexico and Latin America, and strives to unite leading researchers and students in an informal setting with the aim to present current research in Systems Biology and Systems Medicine. The aims of the meeting are:&lt;/p&gt;
@@ -123,70 +123,70 @@ This data would not only helped us identify reactions important to maintain the 
     
     <item>
       <title>The space of enzyme regulation in HeLa cells can be inferred from its intracellular metabolome.</title>
-      <link>/resendislab.github.io/pubs/PM27335086/</link>
+      <link>https://resendislab.github.io/pubs/PM27335086/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/pubs/PM27335086/</guid>
+      <guid>https://resendislab.github.io/pubs/PM27335086/</guid>
       <description>&lt;p&gt;During the transition from a healthy state to a cancerous one, cells alter their metabolism to increase proliferation. The underlying metabolic alterations may be caused by a variety of different regulatory events on the transcriptional or post-transcriptional level whose identification contributes to the rational design of therapeutic targets. We present a mechanistic strategy capable of inferring enzymatic regulation from intracellular metabolome measurements that is independent of the actual mechanism of regulation. Here, enzyme activities are expressed by the space of all feasible kinetic constants (k-cone) such that the alteration between two phenotypes is given by their corresponding kinetic spaces. Deriving an expression for the transformation of the healthy to the cancer k-cone we identified putative regulated enzymes between the HeLa and HaCaT cell lines. We show that only a few enzymatic activities change between those two cell lines and that this regulation does not depend on gene transcription but is instead post-transcriptional. Here, we identify phosphofructokinase as the major driver of proliferation in HeLa cells and suggest an optional regulatory program, associated with oxidative stress, that affects the activity of the pentose phosphate pathway.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling metabolism: a window toward a comprehensive interpretation of networks in cancer.</title>
-      <link>/resendislab.github.io/pubs/PM24747697/</link>
+      <link>https://resendislab.github.io/pubs/PM24747697/</link>
       <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/pubs/PM24747697/</guid>
+      <guid>https://resendislab.github.io/pubs/PM24747697/</guid>
       <description>&lt;p&gt;Given the multi-factorial nature of cancer, uncovering its metabolic alterations and evaluating their implications is a major challenge in biomedical sciences that will help in the optimal design of personalized treatments. The advance of high-throughput technologies opens an invaluable opportunity to monitor the activity at diverse biological levels and elucidate how cancer originates, evolves and responds under drug treatments. To this end, researchers are confronted with two fundamental questions: how to interpret high-throughput data and how this information can contribute to the development of personalized treatment in patients. A variety of schemes in systems biology have been suggested to characterize the phenotypic states associated with cancer by utilizing computational modeling and high-throughput data. These theoretical schemes are distinguished by the level of complexity of the biological mechanisms that they represent and by the computational approaches used to simulate them. Notably, these theoretical approaches have provided a proper framework to explore some distinctive metabolic mechanisms observed in cancer cells such as the Warburg effect. In this review, we focus on presenting a general view of some of these approaches whose application and integration will be crucial in the transition from local to global conclusions in cancer studies. We are convinced that multidisciplinary approaches are required to construct the bases of an integrative and personalized medicine, which has been and remains a fundamental task in the medicine of this century.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Systems biology of cancer: moving toward the integrative study of the metabolic alterations in cancer cells.</title>
-      <link>/resendislab.github.io/pubs/PM23316163/</link>
+      <link>https://resendislab.github.io/pubs/PM23316163/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/pubs/PM23316163/</guid>
+      <guid>https://resendislab.github.io/pubs/PM23316163/</guid>
       <description>&lt;p&gt;One of the main objectives in systems biology is to understand the biological mechanisms that give rise to the phenotype of a microorganism by using high-throughput technologies (HTs) and genome-scale mathematical modeling. The computational modeling of genome-scale metabolic reconstructions is one systemic and quantitative strategy for characterizing the metabolic phenotype associated with human diseases and potentially for designing drugs with optimal clinical effects. The purpose of this short review is to describe how computational modeling, including the specific case of constraint-based modeling, can be used to explore, characterize, and predict the metabolic capacities that distinguish the metabolic phenotype of cancer cell lines. As we show herein, this computational framework is far from a pure theoretical description, and to ensure proper biological interpretation, it is necessary to integrate high-throughput data and generate predictions for later experimental assessment. Hence, genome-scale modeling serves as a platform for the following: (1) the integration of data from HTs, (2) the assessment of how metabolic activity is related to phenotype in cancer cell lines, and (3) the design of new experiments to evaluate the outcomes of the in silico analysis. By combining the functions described above, we show that computational modeling is a useful methodology to construct an integrative, systemic, and quantitative scheme for understanding the metabolic profiles of cancer cell lines, a first step to determine the metabolic mechanism by which cancer cells maintain and support their malignant phenotype in human tissues.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Functional modules, structural topology, and optimal activity in metabolic networks.</title>
-      <link>/resendislab.github.io/pubs/PM23071431/</link>
+      <link>https://resendislab.github.io/pubs/PM23071431/</link>
       <pubDate>Wed, 17 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/pubs/PM23071431/</guid>
+      <guid>https://resendislab.github.io/pubs/PM23071431/</guid>
       <description>&lt;p&gt;Modular organization in biological networks has been suggested as a natural mechanism by which a cell coordinates its metabolic strategies for evolving and responding to environmental perturbations. To understand how this occurs, there is a need for developing computational schemes that contribute to integration of genomic-scale information and assist investigators in formulating biological hypotheses in a quantitative and systematic fashion. In this work, we combined metabolome data and constraint-based modeling to elucidate the relationships among structural modules, functional organization, and the optimal metabolic phenotype of Rhizobium etli, a bacterium that fixes nitrogen in symbiosis with Phaseolus vulgaris. To experimentally characterize the metabolic phenotype of this microorganism, we obtained the metabolic profile of 220 metabolites at two physiological stages: under free-living conditions, and during nitrogen fixation with P. vulgaris. By integrating these data into a constraint-based model, we built a refined computational platform with the capability to survey the metabolic activity underlying nitrogen fixation in R. etli. Topological analysis of the metabolic reconstruction led us to identify modular structures with functional activities. Consistent with modular activity in metabolism, we found that most of the metabolites experimentally detected in each module simultaneously increased their relative abundances during nitrogen fixation. In this work, we explore the relationships among topology, biological function, and optimal activity in the metabolism of R. etli through an integrative analysis based on modeling and metabolome data. Our findings suggest that the metabolic activity during nitrogen fixation is supported by interacting structural modules that correlate with three functional classifications: nucleic acids, peptides, and lipids. More fundamentally, we supply evidence that such modular organization during functional nitrogen fixation is a robust property under different environmental conditions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Systems biology of bacterial nitrogen fixation: high-throughput technology and its integrative description with constraint-based modeling.</title>
-      <link>/resendislab.github.io/pubs/PM21801415/</link>
+      <link>https://resendislab.github.io/pubs/PM21801415/</link>
       <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/pubs/PM21801415/</guid>
+      <guid>https://resendislab.github.io/pubs/PM21801415/</guid>
       <description>&lt;p&gt;Bacterial nitrogen fixation is the biological process by which atmospheric nitrogen is uptaken by bacteroids located in plant root nodules and converted into ammonium through the enzymatic activity of nitrogenase. In practice, this biological process serves as a natural form of fertilization and its optimization has significant implications in sustainable agricultural programs. Currently, the advent of high-throughput technology supplies with valuable data that contribute to understanding the metabolic activity during bacterial nitrogen fixation. This undertaking is not trivial, and the development of computational methods useful in accomplishing an integrative, descriptive and predictive framework is a crucial issue to decoding the principles that regulated the metabolic activity of this biological process.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Proteomic patterns of cervical cancer cell lines, a network perspective.</title>
-      <link>/resendislab.github.io/pubs/PM21696634/</link>
+      <link>https://resendislab.github.io/pubs/PM21696634/</link>
       <pubDate>Fri, 24 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/pubs/PM21696634/</guid>
+      <guid>https://resendislab.github.io/pubs/PM21696634/</guid>
       <description>&lt;p&gt;Cervical cancer is a major mortality factor in the female population. This neoplastic is an excellent model for studying the mechanisms involved in cancer maintenance, because the Human Papilloma Virus (HPV) is the etiology factor in most cases. With the purpose of characterizing the effects of malignant transformation in cellular activity, proteomic studies constitute a reliable way to monitor the biological alterations induced by this disease. In this contextual scheme, a systemic description that enables the identification of the common events between cell lines of different origins, is required to distinguish the essence of carcinogenesis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling core metabolism in cancer cells: surveying the topology underlying the Warburg effect.</title>
-      <link>/resendislab.github.io/pubs/PM20811631/</link>
+      <link>https://resendislab.github.io/pubs/PM20811631/</link>
       <pubDate>Fri, 03 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>/resendislab.github.io/pubs/PM20811631/</guid>
+      <guid>https://resendislab.github.io/pubs/PM20811631/</guid>
       <description>&lt;p&gt;Alterations on glucose consumption and biosynthetic activity of amino acids, lipids and nucleotides are metabolic changes for sustaining cell proliferation in cancer cells. Irrevocable evidence of this fact is the Warburg effect which establishes that cancer cells prefers glycolysis over oxidative phosphorylation to generate ATP. Regulatory action over metabolic enzymes has opened a new window for designing more effective anti-cancer treatments. This enterprise is not trivial and the development of computational models that contribute to identifying potential enzymes for breaking the robustness of cancer cells is a priority.&lt;/p&gt;
 </description>
     </item>

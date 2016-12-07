@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts-rsses on Webpage of the Resendis Lab</title>
-    <link>resendislab.github.io/posts/index.xml</link>
+    <link>https://resendislab.github.io/posts/index.xml</link>
     <description>Recent content in Posts-rsses on Webpage of the Resendis Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Dec 2016 09:19:57 -0600</lastBuildDate>
-    <atom:link href="resendislab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://resendislab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
-      <link>/resendislab.github.io/posts/test/</link>
+      <link>https://resendislab.github.io/posts/test/</link>
       <pubDate>Tue, 06 Dec 2016 09:19:57 -0600</pubDate>
       
-      <guid>/resendislab.github.io/posts/test/</guid>
+      <guid>https://resendislab.github.io/posts/test/</guid>
       <description>&lt;h2 id=&#34;this-is-an-example-post&#34;&gt;This is an example post&lt;/h2&gt;
 
 &lt;p&gt;Please substitute all text below &amp;ldquo;+++&amp;rdquo; with your own!&lt;/p&gt;
