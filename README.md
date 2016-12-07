@@ -44,11 +44,14 @@ Estos dos partes aparecen en un solo archivo de texto en la siguiente forma:
 
     Please substitute all text below "+++" with your own!
 
-    <!--more-->
+    Una formula de Latex:
+    
     $$
     \int_a^b e^{2\pi\cdot x} dx
     $$
-
+    
+    Un poco de codigo:
+    
     ```R
     library(data.table)
     df <- data.table(x=1:10)
