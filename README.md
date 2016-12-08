@@ -28,33 +28,35 @@ En hugo contenido esta formado por dos partes:
 
 Estos dos partes aparecen en un solo archivo de texto en la siguiente forma:
 
-```markdown
-+++
-categories = [
-  "science",
-  "tutorial",
-]
-author = "Your Name"
-title = "test"
-date = "2016-12-06T09:19:57-06:00"
-image = ""
+    +++
+    categories = [
+      "science",
+      "tutorial",
+    ]
+    author = "Your Name"
+    title = "test"
+    date = "2016-12-06T09:19:57-06:00"
+    image = ""
 
-+++
+    +++
 
-## This is an example post
+    ## This is an example post
 
-Please substitute all text below "+++" with your own!
+    Please substitute all text below "+++" with your own!
 
-<!--more-->
-$$
-\int_a^b e^{2\pi\cdot x} dx
-$$
+    Una formula de Latex:
+    
+    $$
+    \int_a^b e^{2\pi\cdot x} dx
+    $$
+    
+    Un poco de codigo:
+    
+    ```R
+    library(data.table)
+    df <- data.table(x=1:10)
+    ```
 
-~~~R
-library(data.table)
-df <- data.table(x=1:10)
-~~~
-```
 
 Aquí todo entre `+++ ... +++` es el front matter y lo demás es el texto. El front matter es diferente para cada tipo de contenido. Pueden ver ejemplos para cada tipo en la carpeta `archetypes`. Entonces para agregar contenido hagan lo siguiente:
 
@@ -69,14 +71,13 @@ Para el cuerpo de texto pueden usar todos los features de markdown como [descrit
 de Hugo [descritos aquí](http://gohugo.io/extras/shortcodes/).
 
 Para los posts del Blog pueden usar formulas matematicas de Latex usando
-`$$ ... $$`. También para bloques de codígo usen ````lengua ... ```` o
-`~~~lengua ...~~~`. Por ejemplo para codígo de R:
+`$$ ... $$`. También para bloques de codígo usen o 3 `` ` `` o `~`. Por ejemplo para codígo de R:
 
-```markdown
-```R
-x <- 1:10
-```
-```
+
+    ```R
+    x <- 1:10
+    ```
+
 
 ### Archivos
 
@@ -84,12 +85,14 @@ Si usan archivos adicionales en su post tienen que copiar los a `static/media`
 antes. Luego se pueden usar con
 
 ```markdown
-![descripcion corta]("media/imagen.jpg") para imagenes
+![descripcion corta]("media/imagen.jpg")
 ```
-o
+para imagenes o
 
 ```markdown
-[texto enlace]("media/archivo.pdf") para enlaces normales
+[texto enlace]("media/archivo.pdf")
+```
+para enlaces normales
 
 ## Puntos avanzados
 
