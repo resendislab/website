@@ -17,19 +17,18 @@
 
 
     function initHeader() {
-        width = window.innerWidth;
-        height = 0.75 * window.innerHeight;
-        target = {
-            x: width / 2,
-            y: height / 2
-        };
-
         var np = 40;
 
         canvas = document.getElementById('demo-canvas');
         var rect = canvas.getBoundingClientRect();
-        canvas.width = width;
-        canvas.height = height;
+
+        width = canvas.width = rect.width;
+        height = canvas.height = rect.height;
+        target = {
+            x: width / 2,
+            y: height / 2
+        };
+        console.log(target);
         ctx = canvas.getContext('2d');
         // TweenLite.set(largeHeader, {
         //     x: -250
@@ -112,10 +111,9 @@
     }
 
     function resize() {
-        width = window.innerWidth;
-        height = 0.75 * window.innerHeight;
-        canvas.width = width;
-        canvas.height = height;
+        var rect = canvas.getBoundingClientRect();
+        width = canvas.width = rect.width;
+        height = canvas.height = rect.height;
     }
 
     // animation
