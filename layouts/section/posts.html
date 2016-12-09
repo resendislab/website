@@ -17,6 +17,7 @@
     <p class="spaced">
     <span class="mdl-typography--caption-color-contrast">{{.Date.Format "02-01-2006"}}</span>
     <span class="mdl-typography--caption-color-contrast right">{{.ReadingTime}}m read</span></p>
+    <h3 class="mdl-color-text--teal-500">by {{ .Params.author}}</h3>
 	<p>{{ .Summary }}</p>
 	</div>
 	<div class="mdl-card__actions mdl-card--border">

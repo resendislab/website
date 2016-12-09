@@ -11,7 +11,8 @@
         <h1 class="mdl-card__title-text">Latest Blog Post</h1>
     </div>
     <div class="mdl-card__supporting-text">
-        <h1 class="mdl-color-text--primary">{{.Title}}</h2><br>
+        <h1 class="mdl-color-text--primary">{{.Title}}</h1>
+        <h2 class="mdl-color-text--teal-500">by {{ .Params.author }}</h2><br/>
         {{.Summary}}
     </div>
     <div class="mdl-card__actions mdl-card--border">

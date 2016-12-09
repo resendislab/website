@@ -1,4 +1,5 @@
 +++
+date = ""
 people = ["Project Leader", "Project Member #2"]
 title = "Project"
 +++
