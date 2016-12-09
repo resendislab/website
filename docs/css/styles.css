@@ -75,7 +75,6 @@ a {
 .card .mdl-card__supporting-text {
     padding: 1rem;
     width: auto;
-    text-align: justify;
 }
 
 .mdl-card__supporting-text p, li {
@@ -92,22 +91,22 @@ a {
 	height: 120px;
 }
 
-.mdl-card__supporting-text  h1 {
-    font-size: 20px;
+.mdl-card__supporting-text h1 {
+    font-size: 18px;
     line-height: normal;
     margin: 0.25em 0;
 }
 
 .mdl-card__supporting-text h2 {
-    font-size: 18px;
+    font-size: 16px;
     margin: 0;
     line-height: normal;
     margin: 0.25em 0;
 }
 
 .mdl-card__supporting-text h3 {
-    font-size: 16px;
-    font-weight: 500;
+    font-size: 14px;
+    font-weight: bold;
     line-height: normal;
     margin: 0.25em 0;
 }
