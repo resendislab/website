@@ -1,8 +1,8 @@
 #!/bin/bash
 set -o errexit
 
-git config --global user.name "Travis CI Bot"
-git config --global user.email "support@travis-ci.com"
+git config --global user.name "travisbot"
+git config --global user.email "support@travis-ci.org"
 
 cd public
 git init
