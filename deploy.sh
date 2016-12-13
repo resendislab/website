@@ -8,4 +8,4 @@ cd public
 git init
 git add .
 git commit -m "Changes from $(date)"
-git push --force "https://${GH_TOKEN}@github.com/${GITHUB_REPO}" > /dev/null 2>&1
+git push --force "https://${GH_TOKEN}@github.com/resendislab/resendislab.github.io"
