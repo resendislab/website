@@ -8,5 +8,4 @@ cd public
 git init
 git add .
 git commit -m "Changes from $(date)"
-git remote add origin "https://${GH_TOKEN}@github.com/${GITHUB_REPO}.git" > /dev/null
-git push -f -u origin master > /dev/null
+git push --force --quiet "https://${GH_TOKEN}@github.com/${GITHUB_REPO}.git" master:master > /dev/null 2>&1
