@@ -1,4 +1,4 @@
-language: c
+language: go
 
 env:
   global:
@@ -6,11 +6,10 @@ env:
     secure: OD6AcTm6M+l7ANZlmVuzdMIiE8dap/ky2sbY/ED9giw+Qx+74jBkh4UnI1DIaxOF4r+j9nOR4hULCiLZRX38YALMapoUae2DX2yXck2x65WjMjxsQDOaqUOPsRoGkIF4tR2DR9xSLZGANZTpI8jDsP0sj11cYr8HfR0Iu4+QVxl9CU/qaPx9gDT9gq97hpVExXKiyLglI6OBnqW4qppJiCTQRcR2IA8MerMafRhGlXOsk6wEaUdjbS7/idBHvzJ4eow1GZSWlyxI7KeYjKLcIOIyjJZ07hJZfD62ILorxguthPfJH2sKkbjzD6CyeTnbpYbIqdXpudJ9kSo4kYMdumuwiwT5WVLIj0772F4WoVJKKO/cYYRaxlo2EWR2sCq95dvP0DbWfjbFvKAg2U7MXq/tds+dKcGkLgRPvFiwVjE7w0oAg/9zHfwKgXsJ8a6h5Jx9Dn03Gq5IUvrvSE+qBBydWW1CL2smUUcvdz1ZA8G0hUDRHCrpzhWy9OpYKesejZKgCcu8owWp357ismdANUP507PARHvprW3E82iS5rSMcSRqxsyKaE2DReeP+ciSqmAx3FYIF7i+76Dot2WxgGXmwCyeaxBy7kW5t2uMD9EeD+6LzNG5tKgdwHd55LqWkFo0L8A9ck/8t9IgtbzCnYMXrTaNFsPDpWjd7N7+CDw=
 
 install:
-  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
-  - tar xzf hugo_0.17_Linux-64bit.tar.gz && chmod +x hugo
+  - go get github.com/spf13/hugo
 
 script:
-  - ./hugo -d public
+  - hugo -d public
 
 deploy:
     skip_cleanup: true
