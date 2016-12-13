@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/resendislab/website.svg?branch=master)](https://travis-ci.org/resendislab/website)
+
 # Versión estatica de la página
 
 "Estaticá" significa que el contenido de la página es escrito en una versión de texto claro llamado [Markdown](https://es.wikipedia.org/wiki/Markdown). Hay un pase de "compilación" que convierte esto a la página. Nosotros usamos
@@ -45,13 +47,13 @@ Estos dos partes aparecen en un solo archivo de texto en la siguiente forma:
     Please substitute all text below "+++" with your own!
 
     Una formula de Latex:
-    
+
     $$
     \int_a^b e^{2\pi\cdot x} dx
     $$
-    
+
     Un poco de codigo:
-    
+
     ```R
     library(data.table)
     df <- data.table(x=1:10)
