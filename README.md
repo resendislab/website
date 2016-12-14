@@ -60,7 +60,7 @@ Estos dos partes aparecen en un solo archivo de texto en la siguiente forma:
     ```
 
 
-Aquí todo entre `+++ ... +++` es el front matter y lo demás es el texto. El front matter es diferente para cada tipo de contenido. Pueden ver ejemplos para cada tipo en la carpeta `archetypes`. Entonces para agregar contenido hagan lo siguiente:
+Aquí todo entre `+++ ... +++` es el "front matter" y lo demás es el texto. El front matter es diferente para cada tipo de contenido. Pueden ver ejemplos para cada tipo en la carpeta `archetypes`. Entonces para agregar contenido hagan lo siguiente:
 
 1. Agregan un nuevo archivo con la terminacion `*.md` en la sub-carpeta de `content` respetivo. Por ejemplo para agregar un
    nuevo post del blog usan `content/posts/my_post.md`
