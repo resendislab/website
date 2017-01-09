@@ -8,12 +8,12 @@
     var width, height, largeHeader, canvas, ctx, points, target, animateHeader = true;
 
     // Main
-    TweenLite.ticker.fps(30);
-    initHeader();
-    if(!isMobile && window.innerWidth > 1024){
+    if(!isMobile && window.innerWidth > 1024) {
+      TweenLite.ticker.fps(30);
+      initHeader();
       initAnimation();
+      addListeners();
     }
-    addListeners();
 
 
     function initHeader() {
