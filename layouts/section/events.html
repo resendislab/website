@@ -1,16 +1,15 @@
 {{ partial "header.html" . }}
-{{ $year := string .Now.Year}}
 <div class="page-content mdl-grid">
 <div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
   <div class="mdl-tabs__tab-bar">
-      {{ range .Data.Pages.GroupByDate "2006" }}
-      <a href="#{{.Key}}" class="mdl-tabs__tab {{if eq .Key $year}}is-active{{end}}">{{.Key}}</a>
+      {{ range $i, $p := .Data.Pages.GroupByDate "2006" }}
+      <a href="#{{$p.Key}}" class="mdl-tabs__tab {{if eq $i 0}}is-active{{end}}">{{$p.Key}}</a>
       {{end}}
   </div>
-{{ range .Data.Pages.GroupByDate "2006" }}
-<div class="mdl-tabs__panel {{if eq .Key $year}}is-active{{end}}" id="{{.Key}}">
+{{ range $i, $p := .Data.Pages.GroupByDate "2006" }}
+<div class="mdl-tabs__panel {{if eq $i 0}}is-active{{end}}" id="{{$p.Key}}">
 <br>
-{{ range .Pages }}
+{{ range $p.Pages }}
 <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
 <div class="mdl-card mdl-shadow--4dp">
 <div class="mdl-card__supporting-text">

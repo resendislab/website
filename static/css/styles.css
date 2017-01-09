@@ -39,6 +39,10 @@ a {
     width: 90%;
     margin-top: 56px;
 }
+
+#demo-canvas {
+    background: url(../media/neuro.png) no-repeat fixed center;
+}
 }
 
 .mdl-layout__drawer, .mdl-layout__header {
