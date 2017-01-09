@@ -28,7 +28,7 @@
             x: width / 2,
             y: height / 2
         };
-        console.log(target);
+
         ctx = canvas.getContext('2d');
         // TweenLite.set(largeHeader, {
         //     x: -250
