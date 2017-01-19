@@ -1,4 +1,893 @@
 <PubmedArticleList>
+    <PubmedArticle>
+        <MedlineCitation Status="In-Data-Review" Owner="NLM">
+            <PMID Version="1">28082911</PMID>
+            <DateCreated>
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>13</Day>
+            </DateCreated>
+            <DateRevised>
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </DateRevised>
+            <Article PubModel="Electronic-eCollection">
+                <Journal>
+                    <JournalIssue CitedMedium="Print">
+                        <Volume>7</Volume>
+                        <PubDate>
+                            <Year>2016</Year>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Frontiers in physiology</Title>
+                    <ISOAbbreviation>Front Physiol</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Personalized Prediction of Proliferation Rates and Metabolic Liabilities in Cancer Biopsies.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>644</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="doi" ValidYN="Y">10.3389/fphys.2016.00644</ELocationID>
+                <Abstract>
+                    <AbstractText NlmCategory="UNASSIGNED">Cancer is a heterogeneous disease and its genetic and metabolic mechanism may manifest differently in each patient. This creates a demand for studies that can characterize phenotypic traits of cancer on a per-sample basis. Combining two large data sets, the NCI60 cancer cell line panel, and The Cancer Genome Atlas, we used a linear interaction model to predict proliferation rates for more than 12,000 cancer samples across 33 different cancers from The Cancer Genome Atlas. The predicted proliferation rates are associated with patient survival and cancer stage and show a strong heterogeneity in proliferative capacity within and across different cancer panels. We also show how the obtained proliferation rates can be incorporated into genome-scale metabolic reconstructions to obtain the metabolic fluxes for more than 3000 cancer samples that identified specific metabolic liabilities for nine cancer panels. Here we found that affected pathways coincided with the literature, with pentose phosphate pathway, retinol, and branched-chain amino acid metabolism being the most panel-specific alterations and fatty acid metabolism and ROS detoxification showing homogeneous metabolic activities across all cancer panels. The presented strategy has potential applications in personalized medicine since it can leverage gene expression signatures for cell line based prediction of additional metabolic properties which might help in constraining personalized metabolic models and improve the identification of metabolic alterations in cancer for individual patients.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Diener</LastName>
+                        <ForeName>Christian</ForeName>
+                        <Initials>C</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Human Systems Biology Laboratory, Instituto Nacional de Medicina Genómica México City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Resendis-Antonio</LastName>
+                        <ForeName>Osbaldo</ForeName>
+                        <Initials>O</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Human Systems Biology Laboratory, Instituto Nacional de Medicina GenómicaMéxico City, Mexico; Coordinación de la Investigación Científica, Red de Apoyo a la Investigación, UNAMMéxico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="">Journal Article</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2016</Year>
+                    <Month>12</Month>
+                    <Day>27</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>Switzerland</Country>
+                <MedlineTA>Front Physiol</MedlineTA>
+                <NlmUniqueID>101549006</NlmUniqueID>
+                <ISSNLinking>1664-042X</ISSNLinking>
+            </MedlineJournalInfo>
+            <KeywordList Owner="NOTNLM">
+                <Keyword MajorTopicYN="N">NCI60</Keyword>
+                <Keyword MajorTopicYN="N">TCGA</Keyword>
+                <Keyword MajorTopicYN="N">flux balance analysis</Keyword>
+                <Keyword MajorTopicYN="N">personalized medicine</Keyword>
+                <Keyword MajorTopicYN="N">proliferation</Keyword>
+                <Keyword MajorTopicYN="N">systems biology</Keyword>
+            </KeywordList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2016</Year>
+                    <Month>10</Month>
+                    <Day>03</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2016</Year>
+                    <Month>12</Month>
+                    <Day>09</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2017</Year>
+                    <Month>1</Month>
+                    <Day>14</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2017</Year>
+                    <Month>1</Month>
+                    <Day>14</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2017</Year>
+                    <Month>1</Month>
+                    <Day>14</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">28082911</ArticleId>
+                <ArticleId IdType="doi">10.3389/fphys.2016.00644</ArticleId>
+                <ArticleId IdType="pmc">PMC5186797</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+
+
+    <PubmedArticle>
+        <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+            <PMID Version="1">28018236</PMID>
+            <DateCreated>
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+            </DateCreated>
+            <DateRevised>
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </DateRevised>
+            <Article PubModel="Electronic-eCollection">
+                <Journal>
+                    <JournalIssue CitedMedium="Print">
+                        <Volume>7</Volume>
+                        <PubDate>
+                            <Year>2016</Year>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Frontiers in physiology</Title>
+                    <ISOAbbreviation>Front Physiol</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Host-Microbiome Interaction and Cancer: Potential Application in Precision Medicine.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>606</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="doi" ValidYN="Y">10.3389/fphys.2016.00606</ELocationID>
+                <Abstract>
+                    <AbstractText NlmCategory="UNASSIGNED">It has been experimentally shown that host-microbial interaction plays a major role in shaping the wellness or disease of the human body. Microorganisms coexisting in human tissues provide a variety of benefits that contribute to proper functional activity in the host through the modulation of fundamental processes such as signal transduction, immunity and metabolism. The unbalance of this microbial profile, or dysbiosis, has been correlated with the genesis and evolution of complex diseases such as cancer. Although this latter disease has been thoroughly studied using different high-throughput (HT) technologies, its heterogeneous nature makes its understanding and proper treatment in patients a remaining challenge in clinical settings. Notably, given the outstanding role of host-microbiome interactions, the ecological interactions with microorganisms have become a new significant aspect in the systems that can contribute to the diagnosis and potential treatment of solid cancers. As a part of expanding precision medicine in the area of cancer research, efforts aimed at effective treatments for various kinds of cancer based on the knowledge of genetics, biology of the disease and host-microbiome interactions might improve the prediction of disease risk and implement potential microbiota-directed therapeutics. In this review, we present the state of the art of sequencing and metabolome technologies, computational methods and schemes in systems biology that have addressed recent breakthroughs of uncovering relationships or associations between microorganisms and cancer. Together, microbiome studies extend the horizon of new personalized treatments against cancer from the perspective of precision medicine through a synergistic strategy integrating clinical knowledge, HT data, bioinformatics, and systems biology.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Contreras</LastName>
+                        <ForeName>Alejandra V</ForeName>
+                        <Initials>AV</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Instituto Nacional de Medicina Genómica Mexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Cocom-Chan</LastName>
+                        <ForeName>Benjamin</ForeName>
+                        <Initials>B</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Instituto Nacional de Medicina GenómicaMexico City, Mexico; Human Systems Biology Laboratory, Instituto Nacional de Medicina GenómicaMexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Hernandez-Montes</LastName>
+                        <ForeName>Georgina</ForeName>
+                        <Initials>G</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Coordinación de la Investigación Científica, Red de Apoyo a la Investigación-National Autonomous University of Mexico (UNAM) Mexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Portillo-Bobadilla</LastName>
+                        <ForeName>Tobias</ForeName>
+                        <Initials>T</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Coordinación de la Investigación Científica, Red de Apoyo a la Investigación-National Autonomous University of Mexico (UNAM) Mexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Resendis-Antonio</LastName>
+                        <ForeName>Osbaldo</ForeName>
+                        <Initials>O</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Instituto Nacional de Medicina GenómicaMexico City, Mexico; Human Systems Biology Laboratory, Instituto Nacional de Medicina GenómicaMexico City, Mexico; Coordinación de la Investigación Científica, Red de Apoyo a la Investigación-National Autonomous University of Mexico (UNAM)Mexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="">Review</PublicationType>
+                    <PublicationType UI="">Journal Article</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2016</Year>
+                    <Month>12</Month>
+                    <Day>09</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>Switzerland</Country>
+                <MedlineTA>Front Physiol</MedlineTA>
+                <NlmUniqueID>101549006</NlmUniqueID>
+                <ISSNLinking>1664-042X</ISSNLinking>
+            </MedlineJournalInfo>
+            <KeywordList Owner="NOTNLM">
+                <Keyword MajorTopicYN="N">cancer metabolism</Keyword>
+                <Keyword MajorTopicYN="N">metabolome</Keyword>
+                <Keyword MajorTopicYN="N">microbiome</Keyword>
+                <Keyword MajorTopicYN="N">next generation sequencing (NGS)</Keyword>
+                <Keyword MajorTopicYN="N">precision medicine</Keyword>
+                <Keyword MajorTopicYN="N">systems integration</Keyword>
+            </KeywordList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2016</Year>
+                    <Month>08</Month>
+                    <Day>08</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2016</Year>
+                    <Month>11</Month>
+                    <Day>21</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2016</Year>
+                    <Month>12</Month>
+                    <Day>27</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2016</Year>
+                    <Month>12</Month>
+                    <Day>27</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2016</Year>
+                    <Month>12</Month>
+                    <Day>27</Day>
+                    <Hour>6</Hour>
+                    <Minute>1</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">28018236</ArticleId>
+                <ArticleId IdType="doi">10.3389/fphys.2016.00606</ArticleId>
+                <ArticleId IdType="pmc">PMC5145879</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+
+    <PubmedArticle>
+        <MedlineCitation Status="MEDLINE" Owner="NLM">
+            <PMID Version="1">17559662</PMID>
+            <DateCreated>
+                <Year>2007</Year>
+                <Month>07</Month>
+                <Day>03</Day>
+            </DateCreated>
+            <DateCompleted>
+                <Year>2007</Year>
+                <Month>08</Month>
+                <Day>07</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2014</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </DateRevised>
+            <Article PubModel="Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1471-2180</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>7</Volume>
+                        <PubDate>
+                            <Year>2007</Year>
+                            <Month>Jun</Month>
+                            <Day>08</Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>BMC microbiology</Title>
+                    <ISOAbbreviation>BMC Microbiol.</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Identification of regulatory network topological units coordinating the genome-wide transcriptional response to glucose in Escherichia coli.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>53</MedlinePgn>
+                </Pagination>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Glucose is the preferred carbon and energy source for Escherichia coli. A complex regulatory network coordinates gene expression, transport and enzyme activities in response to the presence of this sugar. To determine the extent of the cellular response to glucose, we applied an approach combining global transcriptome and regulatory network analyses.</AbstractText>
+                    <AbstractText Label="RESULTS" NlmCategory="RESULTS">Transcriptome data from isogenic wild type and crp- strains grown in Luria-Bertani medium (LB) or LB + 4 g/L glucose (LB+G) were analyzed to identify differentially transcribed genes. We detected 180 and 200 genes displaying increased and reduced relative transcript levels in the presence of glucose, respectively. The observed expression pattern in LB was consistent with a gluconeogenic metabolic state including active transport and interconversion of small molecules and macromolecules, induction of protease-encoding genes and a partial heat shock response. In LB+G, catabolic repression was detected for transport and metabolic interconversion activities. We also detected an increased capacity for de novo synthesis of nucleotides, amino acids and proteins. Cluster analysis of a subset of genes revealed that CRP mediates catabolite repression for most of the genes displaying reduced transcript levels in LB+G, whereas Fis participates in the upregulation of genes under this condition. An analysis of the regulatory network, in terms of topological functional units, revealed 8 interconnected modules which again exposed the importance of Fis and CRP as directly responsible for the coordinated response of the cell. This effect was also seen with other not extensively connected transcription factors such as FruR and PdhR, which showed a consistent response considering media composition.</AbstractText>
+                    <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This work allowed the identification of eight interconnected regulatory network modules that includes CRP, Fis and other transcriptional factors that respond directly or indirectly to the presence of glucose. In most cases, each of these modules includes genes encoding physiologically related functions, thus indicating a connection between regulatory network topology and related cellular functions involved in nutrient sensing and metabolism.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Gutierrez-Ríos</LastName>
+                        <ForeName>Rosa María</ForeName>
+                        <Initials>RM</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Departamentos de Microbiología Molecular, Instituto de Biotecnología, Universidad Nacional Autónoma de México, Apdo. Postal 510-3, Cuernavaca, Morelos, México. rmaria@ibt.unam.mx</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Freyre-Gonzalez</LastName>
+                        <ForeName>Julio A</ForeName>
+                        <Initials>JA</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Resendis</LastName>
+                        <ForeName>Osbaldo</ForeName>
+                        <Initials>O</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Collado-Vides</LastName>
+                        <ForeName>Julio</ForeName>
+                        <Initials>J</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Saier</LastName>
+                        <ForeName>Milton</ForeName>
+                        <Initials>M</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Gosset</LastName>
+                        <ForeName>Guillermo</ForeName>
+                        <Initials>G</Initials>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D003160">Comparative Study</PublicationType>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                    <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2007</Year>
+                    <Month>06</Month>
+                    <Day>08</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>England</Country>
+                <MedlineTA>BMC Microbiol</MedlineTA>
+                <NlmUniqueID>100966981</NlmUniqueID>
+                <ISSNLinking>1471-2180</ISSNLinking>
+            </MedlineJournalInfo>
+            <ChemicalList>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D003470">Culture Media</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D002373">Cyclic AMP Receptor Protein</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D035021">Factor For Inversion Stimulation Protein</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="C501034">Fis protein, E coli</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D012329">RNA, Bacterial</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="C481662">crp protein, E coli</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                    <NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+                </Chemical>
+            </ChemicalList>
+            <CitationSubset>IM</CitationSubset>
+            <CommentsCorrectionsList>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Gen Genet. 1999 Dec;262(4-5):876-83</RefSource>
+                    <PMID Version="1">10628873</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D394-7</RefSource>
+                    <PMID Version="1">16381895</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Biotechnol. 2000 Dec;18(12):1262-8</RefSource>
+                    <PMID Version="1">11101804</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Microbiol. 2001 Mar;39(6):1572-84</RefSource>
+                    <PMID Version="1">11260474</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Appl Environ Microbiol. 2001 May;67(5):2310-8</RefSource>
+                    <PMID Version="1">11319117</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Mol Microbiol Biotechnol. 2001 Jul;3(3):329-46</RefSource>
+                    <PMID Version="1">11361063</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Biol Chem. 2001 May 25;276(21):17878-86</RefSource>
+                    <PMID Version="1">11279109</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Microbiology. 2001 Nov;147(Pt 11):2981-9</RefSource>
+                    <PMID Version="1">11700349</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 2001 Dec;183(24):7329-40</RefSource>
+                    <PMID Version="1">11717292</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Biol Chem. 2002 Apr 12;277(15):13175-83</RefSource>
+                    <PMID Version="1">11815613</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 2002 Sep;184(17):4881-90</RefSource>
+                    <PMID Version="1">12169614</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Biol Chem. 2003 Apr 25;278(17):14776-81</RefSource>
+                    <PMID Version="1">12588863</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Curr Opin Microbiol. 2003 Oct;6(5):482-9</RefSource>
+                    <PMID Version="1">14572541</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genome Res. 2003 Nov;13(11):2435-43</RefSource>
+                    <PMID Version="1">14597655</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Curr Opin Microbiol. 2004 Apr;7(2):102-8</RefSource>
+                    <PMID Version="1">15063844</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Appl Environ Microbiol. 2004 Apr;70(4):2354-66</RefSource>
+                    <PMID Version="1">15066832</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 2004 Jun;186(11):3516-24</RefSource>
+                    <PMID Version="1">15150239</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Bioinformatics. 2004 Jun 12;20(9):1453-4</RefSource>
+                    <PMID Version="1">14871861</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Annu Rev Microbiol. 1977;31:397-419</RefSource>
+                    <PMID Version="1">410356</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Cell. 1985 Jun;41(2):587-95</RefSource>
+                    <PMID Version="1">3886165</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Biochem J. 1986 Jul 15;237(2):547-57</RefSource>
+                    <PMID Version="1">3541901</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 1989 Jun;171(6):3494-503</RefSource>
+                    <PMID Version="1">2656658</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genes Dev. 1989 Aug;3(8):1226-32</RefSource>
+                    <PMID Version="1">2676724</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 1991 Mar;173(6):1992-6</RefSource>
+                    <PMID Version="1">2002001</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Cell. 1991 Sep 20;66(6):1185-95</RefSource>
+                    <PMID Version="1">1913806</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 1992 Feb;174(3):758-64</RefSource>
+                    <PMID Version="1">1310091</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Mol Biol. 1993 Nov 5;234(1):28-44</RefSource>
+                    <PMID Version="1">8230205</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Microbiol. 1994 Apr;12(1):95-104</RefSource>
+                    <PMID Version="1">8057842</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Microbiol. 1995 May;16(3):521-34</RefSource>
+                    <PMID Version="1">7565112</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 1996 Jan;178(1):280-3</RefSource>
+                    <PMID Version="1">8550429</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Microbiol. 1996 Aug;21(3):613-20</RefSource>
+                    <PMID Version="1">8866483</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Annu Rev Microbiol. 1996;50:645-77</RefSource>
+                    <PMID Version="1">8905094</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 1997 Aug;179(16):5126-30</RefSource>
+                    <PMID Version="1">9260955</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 1997 Dec;179(23):7410-9</RefSource>
+                    <PMID Version="1">9393706</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Mol Biol. 1998 Jun 26;279(5):1027-43</RefSource>
+                    <PMID Version="1">9642081</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Microbiol. 1998 Aug;29(4):1053-63</RefSource>
+                    <PMID Version="1">9767573</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 1998 Dec 8;95(25):14863-8</RefSource>
+                    <PMID Version="1">9843981</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 1999 Mar;181(6):1912-9</RefSource>
+                    <PMID Version="1">10074087</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 1999 Oct;181(20):6425-40</RefSource>
+                    <PMID Version="1">10515934</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nucleic Acids Res. 2004;32(19):5874-93</RefSource>
+                    <PMID Version="1">15520470</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Bioinformatics. 2004 Nov 22;20(17):3246-8</RefSource>
+                    <PMID Version="1">15180930</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Comput Biol Chem. 2004 Dec;28(5-6):341-50</RefSource>
+                    <PMID Version="1">15556475</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nucleic Acids Res. 2005 Jan 1;33(Database issue):D334-7</RefSource>
+                    <PMID Version="1">15608210</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 2005 Feb;187(3):980-90</RefSource>
+                    <PMID Version="1">15659676</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Trends Genet. 2005 Jan;21(1):16-20</RefSource>
+                    <PMID Version="1">15680508</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Biol Chem. 2005 Apr 22;280(16):15921-7</RefSource>
+                    <PMID Version="1">15705577</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 2005 May 31;102(22):7841-6</RefSource>
+                    <PMID Version="1">15908506</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Microbiol. 2005 Jul;57(2):496-510</RefSource>
+                    <PMID Version="1">15978080</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genes Dev. 2005 Jul 1;19(13):1499-511</RefSource>
+                    <PMID Version="1">15998805</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 2000 Sep;182(18):5029-35</RefSource>
+                    <PMID Version="1">10960084</PMID>
+                </CommentsCorrections>
+            </CommentsCorrectionsList>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D003470" MajorTopicYN="N">Culture Media</DescriptorName>
+                    <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D002373" MajorTopicYN="N">Cyclic AMP Receptor Protein</DescriptorName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D029968" MajorTopicYN="N">Escherichia coli Proteins</DescriptorName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D035021" MajorTopicYN="N">Factor For Inversion Stimulation Protein</DescriptorName>
+                    <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D053263" MajorTopicYN="Y">Gene Regulatory Networks</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D005947" MajorTopicYN="N">Glucose</DescriptorName>
+                    <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D020411" MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D012329" MajorTopicYN="N">RNA, Bacterial</DescriptorName>
+                    <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                    <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D018085" MajorTopicYN="N">Regulon</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+                </MeshHeading>
+            </MeshHeadingList>
+            <OtherID Source="NLM">PMC1905917</OtherID>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2007</Year>
+                    <Month>01</Month>
+                    <Day>15</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2007</Year>
+                    <Month>06</Month>
+                    <Day>08</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2007</Year>
+                    <Month>6</Month>
+                    <Day>15</Day>
+                    <Hour>9</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2007</Year>
+                    <Month>8</Month>
+                    <Day>8</Day>
+                    <Hour>9</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2007</Year>
+                    <Month>6</Month>
+                    <Day>15</Day>
+                    <Hour>9</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">17559662</ArticleId>
+                <ArticleId IdType="pii">1471-2180-7-53</ArticleId>
+                <ArticleId IdType="doi">10.1186/1471-2180-7-53</ArticleId>
+                <ArticleId IdType="pmc">PMC1905917</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+
+    <PubmedArticle>
+        <MedlineCitation Status="MEDLINE" Owner="NLM">
+            <PMID Version="1">17188715</PMID>
+            <DateCreated>
+                <Year>2007</Year>
+                <Month>03</Month>
+                <Day>13</Day>
+            </DateCreated>
+            <DateCompleted>
+                <Year>2007</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </DateRevised>
+            <Article PubModel="Print-Electronic">
+                <Journal>
+                    <ISSN IssnType="Print">0022-5193</ISSN>
+                    <JournalIssue CitedMedium="Print">
+                        <Volume>245</Volume>
+                        <Issue>3</Issue>
+                        <PubDate>
+                            <Year>2007</Year>
+                            <Month>Apr</Month>
+                            <Day>07</Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Journal of theoretical biology</Title>
+                    <ISOAbbreviation>J. Theor. Biol.</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Robustness and evolvability in genetic regulatory networks.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>433-48</MedlinePgn>
+                </Pagination>
+                <Abstract>
+                    <AbstractText>Living organisms are robust to a great variety of genetic changes. Gene regulation networks and metabolic pathways self-organize and reaccommodate to make the organism perform with stability and reliability under many point mutations, gene duplications and gene deletions. At the same time, living organisms are evolvable, which means that these kind of genetic perturbations can eventually make the organism acquire new functions and adapt to new environments. It is still an open problem to determine how robustness and evolvability blend together at the genetic level to produce stable organisms that yet can change and evolve. Here we address this problem by studying the robustness and evolvability of the attractor landscape of genetic regulatory network models under the process of gene duplication followed by divergence. We show that an intrinsic property of this kind of networks is that, after the divergence of the parent and duplicate genes, with a high probability the previous phenotypes, encoded in the attractor landscape of the network, are preserved and new ones might appear. The above is true in a variety of network topologies and even for the case of extreme divergence in which the duplicate gene bears almost no relation with its parent. Our results indicate that networks operating close to the so-called &quot;critical regime&quot; exhibit the maximum robustness and evolvability simultaneously.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Aldana</LastName>
+                        <ForeName>Maximino</ForeName>
+                        <Initials>M</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Centro de Ciencias Físicas, Universidad Nacional Autónoma de México, C.P. 62251, Apartado Postal 48-3, Cuernavaca, Morelos, Mexico. max@fis.unam.mx</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Balleza</LastName>
+                        <ForeName>Enrique</ForeName>
+                        <Initials>E</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Kauffman</LastName>
+                        <ForeName>Stuart</ForeName>
+                        <Initials>S</Initials>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Resendiz</LastName>
+                        <ForeName>Osbaldo</ForeName>
+                        <Initials>O</Initials>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <GrantList CompleteYN="Y">
+                    <Grant>
+                        <GrantID>GM070600-01</GrantID>
+                        <Acronym>GM</Acronym>
+                        <Agency>NIGMS NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                </GrantList>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                    <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                    <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                    <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2006</Year>
+                    <Month>11</Month>
+                    <Day>01</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>England</Country>
+                <MedlineTA>J Theor Biol</MedlineTA>
+                <NlmUniqueID>0376342</NlmUniqueID>
+                <ISSNLinking>0022-5193</ISSNLinking>
+            </MedlineJournalInfo>
+            <CitationSubset>IM</CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D017124" MajorTopicYN="N">Conserved Sequence</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D019143" MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D005786" MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D008957" MajorTopicYN="Y">Models, Genetic</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D017711" MajorTopicYN="Y">Nonlinear Dynamics</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D010641" MajorTopicYN="N">Phenotype</DescriptorName>
+                </MeshHeading>
+            </MeshHeadingList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2006</Year>
+                    <Month>03</Month>
+                    <Day>29</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="revised">
+                    <Year>2006</Year>
+                    <Month>10</Month>
+                    <Day>17</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2006</Year>
+                    <Month>10</Month>
+                    <Day>25</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2006</Year>
+                    <Month>12</Month>
+                    <Day>26</Day>
+                    <Hour>9</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2007</Year>
+                    <Month>5</Month>
+                    <Day>30</Day>
+                    <Hour>9</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2006</Year>
+                    <Month>12</Month>
+                    <Day>26</Day>
+                    <Hour>9</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">17188715</ArticleId>
+                <ArticleId IdType="pii">S0022-5193(06)00517-0</ArticleId>
+                <ArticleId IdType="doi">10.1016/j.jtbi.2006.10.027</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+
 <PubmedArticle>
     <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
         <PMID Version="1">27616995</PMID>

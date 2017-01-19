@@ -3,11 +3,11 @@
 <div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
   <div class="mdl-tabs__tab-bar">
       {{ range $i, $p := .Data.Pages.GroupByDate "2006" }}
-      <a href="#{{$p.Key}}" class="mdl-tabs__tab {{if eq $i 0}}is-active{{end}}">{{$p.Key}}</a>
+      <a href="#year{{$p.Key}}" class="mdl-tabs__tab {{if eq $i 0}}is-active{{end}}">{{$p.Key}}</a>
       {{end}}
   </div>
 {{ range $i, $p := .Data.Pages.GroupByDate "2006" }}
-<div class="mdl-tabs__panel {{if eq $i 0}}is-active{{end}}" id="{{$p.Key}}">
+<div class="mdl-tabs__panel {{if eq $i 0}}is-active{{end}}" id="year{{$p.Key}}">
 <br>
 {{ range $p.Pages }}
 <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">

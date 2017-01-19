@@ -1,14 +1,26 @@
 #!/usr/bin/env python3
 
+MD = """+++
+authors = [{{authors}}]
+title = "{{title}}"
+journal = "{{journal}}"
+what = "article"
+doi = "{{doi}}"
+pubmed = "{{pmid}}"
+date = "{{date}}"
+keywords = [{{keywords}}]
++++
+
+{{abstract}}"""
+
 if __name__ == "__main__":
     import xml.etree.ElementTree as ET
     from sys import argv
-    from jinja2 import Environment, FileSystemLoader
+    from jinja2 import Environment
     from os.path import exists
     from datetime import date as da
 
-    env = Environment(loader=FileSystemLoader("."), trim_blocks=True)
-    template = env.get_template("pub.md")
+    template = Environment().from_string(MD)
 
     root = ET.parse(argv[1]).getroot()
     for child in root:
@@ -23,6 +35,9 @@ if __name__ == "__main__":
             '"' + x.find("ForeName").text + " " + x.find("LastName").text + '"'
             for x in child.findall(".//Author")
             ])
+        article["keywords"] = ", ".join([
+            '"' + x.text + '"' for x in child.findall(".//Keyword")
+            ])
         article["doi"] = child.find(
             ".//ArticleId[@IdType='doi']").text
         article["journal"] = child.find(".//Journal/Title").text
@@ -30,7 +45,7 @@ if __name__ == "__main__":
         article["date"] = da(int(date.find("Year").text),
                              int(date.find("Month").text),
                              int(date.find("Day").text)).isoformat()
-        print(article)
+        print(article["keywords"])
         filename = "content/pubs/PM{}.md".format(article["pmid"])
         if not exists(filename):
             with open(filename, "w") as f:

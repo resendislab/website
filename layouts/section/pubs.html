@@ -14,7 +14,8 @@
 <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
 <h3 class="mdl-color-text--gray">{{ title .Params.journal }}&nbsp;{{ .Date.Year }}</h3>
 <h2 class="mdl-color-text--teal-500">{{ delimit .Params.authors ", " " and "}}</h2>
-{{ if .Content }}<p>{{ .Content }}</p>{{ end }}
+<p style="font-size: 13px; margin-top: .5em">{{ if .Keywords }}Keywords: {{ delimit .Keywords ", " | title }}{{ end }}</p>
+{{ if .Content }}{{ .Content }}{{ end }}
 </div>
 <div class="mdl-card__actions mdl-card--border">
     <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://doi.org/{{.Params.doi}}">Full Article</a>
@@ -33,7 +34,8 @@
 <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
 <h3 class="mdl-color-text--gray">{{ .Date.Year }}</h3>
 <h2 class="mdl-color-text--teal-500">{{ delimit .Params.authors ", " " and "}}</h2>
-{{ if .Content }}<br>{{ .Content }}{{ end }}
+<p style="font-size: 13px; margin-top: .5em">{{ if .Keywords }}Keywords: {{ delimit .Keywords ", " | title }}{{ end }}</p>
+{{ if .Content }}{{ .Content }}{{ end }}
 </div>
 </div>
 </div>
