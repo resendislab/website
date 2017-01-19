@@ -14,7 +14,7 @@
 <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
 <h3 class="mdl-color-text--gray">{{ title .Params.journal }}&nbsp;{{ .Date.Year }}</h3>
 <h2 class="mdl-color-text--teal-500">{{ delimit .Params.authors ", " " and "}}</h2>
-<p style="font-size: 13px; margin-top: .5em">{{ if .Keywords }}Keywords: {{ delimit .Keywords ", " | title }}{{ end }}</p>
+<p style="font-size: 13px; margin-top: .5em">{{ if .Keywords }}Keywords: {{ delimit .Keywords ", " }}{{ end }}</p>
 {{ if .Content }}{{ .Content }}{{ end }}
 </div>
 <div class="mdl-card__actions mdl-card--border">
@@ -34,7 +34,7 @@
 <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
 <h3 class="mdl-color-text--gray">{{ .Date.Year }}</h3>
 <h2 class="mdl-color-text--teal-500">{{ delimit .Params.authors ", " " and "}}</h2>
-<p style="font-size: 13px; margin-top: .5em">{{ if .Keywords }}Keywords: {{ delimit .Keywords ", " | title }}{{ end }}</p>
+<p style="font-size: 13px; margin-top: .5em">{{ if .Keywords }}Keywords: {{ delimit .Keywords ", " }}{{ end }}</p>
 {{ if .Content }}{{ .Content }}{{ end }}
 </div>
 </div>

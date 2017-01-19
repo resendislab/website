@@ -4,7 +4,7 @@ sudo: false
 addons:
   apt:
     sources:
-      - hugo-authors-team
+      - sourceline: "ppa:hugo-authors-team/ppa"
     packages:
       - hugo-daily
 
