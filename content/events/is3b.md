@@ -1,5 +1,6 @@
 +++
-place = "inmegen"
+place = "INMEGEN"
+maps = "https://goo.gl/maps/1CUc2NA46Bu"
 date = "2016-08-02"
 end = "2016-08-04"
 title = "2nd International Summer Symposium on Systems Biology"

@@ -2,7 +2,8 @@
 date = ""
 end = ""
 title = ""
-place = "inmegen"
+place = "INMEGEN"
+maps = "https://goo.gl/maps/1CUc2NA46Bu"
 webpage = "https://"
 +++
 
