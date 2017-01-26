@@ -4,19 +4,21 @@
 <h2>Blending Biology and Computation to understand human diseases.</h2></div>
 <div class="page-content mdl-grid">
 <br><br>
-{{ range first 1 (where .Data.Pages "Section" "posts") }}
+{{ $fornews := slice "posts" "events" }}
+{{ range first 1 (where .Data.Pages "Section" "in" $fornews)}}
 <div class="mdl-cell mdl-cell--12-col">
 <div class="card mdl-card mdl-shadow--4dp">
     <div class="mdl-card__title" {{ if .Params.hero }}style="background: url('/media/{{.Params.hero}}') center / cover"{{end}}>
-        <h1 class="mdl-card__title-text">Latest Blog Post</h1>
+        <h1 class="mdl-card__title-text">Latest News</h1>
     </div>
     <div class="mdl-card__supporting-text">
         <h1 class="mdl-color-text--primary">{{.Title}}</h1>
-        <h2 class="mdl-color-text--teal-500">by {{ .Params.author }}</h2><br/>
-        {{.Summary}}
+        {{ if eq .Section "posts" }}<h2 class="mdl-color-text--teal-500">by {{ .Params.author }}</h2><br/>
+        {{ else }}<h2 class="mdl-color-text--teal-500">from {{ .Date.Format "02-01-2006" }}&nbsp;to&nbsp;{{ dateFormat "02-01-2006" .Params.end }}</h2><br/>{{ end }}
+        <p>{{.Summary}}</p>
     </div>
     <div class="mdl-card__actions mdl-card--border">
-        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{.RelPermalink}}">Read more...</a>
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ if eq .Section "posts" }}{{.RelPermalink}}{{ else }}/{{ .Section }}{{ end }}">Read more...</a>
     </div>
 </div></div>
 {{end}}
@@ -30,6 +32,7 @@
     <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
     <h3 class="mdl-color-text--gray">{{ if .Params.journal }}{{ title .Params.journal }}&nbsp;{{end}}{{ .Date.Year }}</h3>
     <h2 class="mdl-color-text--teal-500">{{ delimit .Params.authors ", " " and "}}</h2>
+    <p>{{ .Summary }}</p>
 </div>
     <div class="mdl-card__actions mdl-card--border">
         <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="/pubs">See all...</a>
