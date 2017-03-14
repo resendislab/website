@@ -3,8 +3,8 @@ categories = [
   "science",
   "tutorial",
 ]
-author = "Your Name"
-title = "test"
+author = "Christian"
+title = "Hola!!!"
 date = "2016-12-06T09:19:57-06:00"
 image = ""
 
@@ -14,12 +14,14 @@ image = ""
 
 Please substitute all text below "+++" with your own!
 
+This is my text now grrrr :)
+
 <!--more-->
 $$
 \int_a^b e^{2\pi\cdot x} dx
 $$
 
-~~~R
+```R
 library(data.table)
 df <- data.table(x=1:10)
-~~~
+```
