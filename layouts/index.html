@@ -4,6 +4,18 @@
 <h2>Blending Biology and Computation to understand human diseases.</h2></div>
 <div class="page-content mdl-grid">
 <br><br>
+{{ range first 1 (where .Data.Pages "Section" "about")}}
+<div class="mdl-cell mdl-cell--12-col">
+<div class="card mdl-card mdl-shadow--4dp">
+    <div class="mdl-card__supporting-text">
+        <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
+        <p>{{.Summary}}</p>
+    </div>
+    <div class="mdl-card__actions mdl-card--border">
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="/{{ .Section }}">Read more...</a>
+    </div>
+</div></div>
+{{ end }}
 {{ $fornews := slice "posts" "events" }}
 {{ range first 1 (where .Data.Pages "Section" "in" $fornews)}}
 <div class="mdl-cell mdl-cell--12-col">

@@ -7,8 +7,8 @@ env:
     - secure: HKA5Yuj54guCLct95V1FyFf0cAiETWAxUSGlnJkwHdSPb+jMoY3VWEDTbsZn+b286iEH0c9vgB49uSzvWkXeaNElMVJeAjD3kYitsChRWZA90ghVFxnjupuUCvTRCMH3X60+rbnL++0N4lnzKulu0IyKdzY0ag4KwpLz19ufJmXFwBIxUzEvdzcHJiPPA7uObJjERxib3ih7CS99GMKSHAy7iSLsmM3rU4+2TYvqMQ+RjDR6yuhZmzTwdPRuys6qM1jRnJR3i+SHQ24K7CPRmPoESIZ151vBb1pvGzqrT2HEFIXMGPOefmYdDWqpbP8aFd9jEMyyiK7bSQjwwW3+4JjCb/XPzOShnt+VxzAjnmUWm6rTAagGjh5VtYoQgFDxDH3a3/KiJf6YUw1zH97eltLDztgb1KiCxwe8gcDloYZJCvoxQZ2/xyJAfTeFpgO3kZyf8A4KBPw6K2kE0ydN8B5+HEROGkywsVqHA+ELh2wBjxcjO7q1uhqMDzpQfi0IU5c8v/7OoH0WdZ87Cacm0ka8Vl7ujMwE/RkRhL8vMr1xv7m65IlrU8ThxJLtTXyj7YODYZR+cDAbSCDqyIm6S0llFz+ZHJ1z3qm0aIjaEC3DLzQ/EfJmjQH7jfDsiAKrSjf9P6GVwwSYTfqb4fRPqBB31bN0eAA4tpzStl6ZwfU=
 
 install:
-  - wget https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1_Linux-64bit.tar.gz -O hugo.tar.gz
-  - tar xvzf hugo.tar.gz && cp hugo_0.18.1_linux_amd64/hugo_0.18.1_linux_amd64 ./hugo
+  - wget https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19_Linux-64bit.tar.gz -O hugo.tar.gz
+  - tar xvzf hugo.tar.gz && cp hugo_0.19_linux_amd64/hugo_0.19_linux_amd64 ./hugo
 
 script:
   - ./hugo -d public
