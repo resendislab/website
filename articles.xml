@@ -1,6 +1,992 @@
 <PubmedArticleList>
     <PubmedArticle>
         <MedlineCitation Status="In-Data-Review" Owner="NLM">
+            <PMID Version="1">28536537</PMID>
+            <DateCreated>
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </DateCreated>
+            <DateRevised>
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </DateRevised>
+            <Article PubModel="Electronic-eCollection">
+                <Journal>
+                    <JournalIssue CitedMedium="Print">
+                        <Volume>8</Volume>
+                        <PubDate>
+                            <Year>2017</Year>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Frontiers in physiology</Title>
+                    <ISOAbbreviation>Front Physiol</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>&quot;Gestaltomics&quot;: Systems Biology Schemes for the Study of Neuropsychiatric Diseases.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>286</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="doi" ValidYN="Y">10.3389/fphys.2017.00286</ELocationID>
+                <Abstract>
+                    <AbstractText>The integration of different sources of biological information about what defines a behavioral phenotype is difficult to unify in an entity that reflects the arithmetic sum of its individual parts. In this sense, the challenge of Systems Biology for understanding the &quot;psychiatric phenotype&quot; is to provide an improved vision of the shape of the phenotype as it is visualized by &quot;Gestalt&quot; psychology, whose fundamental axiom is that the observed phenotype (behavior or mental disorder) will be the result of the integrative composition of every part. Therefore, we propose the term &quot;Gestaltomics&quot; as a term from Systems Biology to integrate data coming from different sources of information (such as the genome, transcriptome, proteome, epigenome, metabolome, phenome, and microbiome). In addition to this biological complexity, the mind is integrated through multiple brain functions that receive and process complex information through channels and perception networks (i.e., sight, ear, smell, memory, and attention) that in turn are programmed by genes and influenced by environmental processes (epigenetic). Today, the approach of medical research in human diseases is to isolate one disease for study; however, the presence of an additional disease (co-morbidity) or more than one disease (multimorbidity) adds complexity to the study of these conditions. This review will present the challenge of integrating psychiatric disorders at different levels of information (Gestaltomics). The implications of increasing the level of complexity, for example, studying the co-morbidity with another disease such as cancer, will also be discussed.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Gutierrez Najera</LastName>
+                        <ForeName>Nora A</ForeName>
+                        <Initials>NA</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Instituto Nacional de Medicina GenómicaMexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Resendis-Antonio</LastName>
+                        <ForeName>Osbaldo</ForeName>
+                        <Initials>O</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Instituto Nacional de Medicina GenómicaMexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Human Systems Biology Laboratory, Coordinación de la Investigación Científica - Red de Apoyo a la Investigación, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, National Autonomous University of Mexico (UNAM)Mexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Nicolini</LastName>
+                        <ForeName>Humberto</ForeName>
+                        <Initials>H</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Instituto Nacional de Medicina GenómicaMexico City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                    <PublicationType UI="D016454">Review</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2017</Year>
+                    <Month>05</Month>
+                    <Day>09</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>Switzerland</Country>
+                <MedlineTA>Front Physiol</MedlineTA>
+                <NlmUniqueID>101549006</NlmUniqueID>
+                <ISSNLinking>1664-042X</ISSNLinking>
+            </MedlineJournalInfo>
+            <CommentsCorrectionsList>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Tumour Biol. 2015 Jun;36(6):4387-96</RefSource>
+                    <PMID Version="1">25874489</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Genet. 2010 May;42(5):441-7</RefSource>
+                    <PMID Version="1">20418890</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Am J Hum Genet. 2014 May 1;94(5):677-94</RefSource>
+                    <PMID Version="1">24768552</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>World J Surg Oncol. 2016 Jul 22;14 (1):191</RefSource>
+                    <PMID Version="1">27450204</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Biomed Res Int. 2014;2014:428570</RefSource>
+                    <PMID Version="1">24982882</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Carcinogenesis. 2016 Jun;37(6):583-588</RefSource>
+                    <PMID Version="1">26992901</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Transl Psychiatry. 2012 Aug 14;2:e149</RefSource>
+                    <PMID Version="1">22892715</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Front Physiol. 2013 Sep 03;4:237</RefSource>
+                    <PMID Version="1">24027532</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Proteome Res. 2011 Dec 2;10(12):5433-43</RefSource>
+                    <PMID Version="1">22007635</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Am J Med Genet B Neuropsychiatr Genet. 2017 Mar 27;:null</RefSource>
+                    <PMID Version="1">28349588</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Database (Oxford). 2015 Jul 24;2015:bav068</RefSource>
+                    <PMID Version="1">26209309</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Metabolites. 2016 Mar 02;6(1):null</RefSource>
+                    <PMID Version="1">26950159</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Handb Exp Pharmacol. 2009;(192):235-59</RefSource>
+                    <PMID Version="1">19184652</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Genet. 2011 Jun;43(6):565-9</RefSource>
+                    <PMID Version="1">21572414</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Cell Rep. 2015 May 5;11(5):835-48</RefSource>
+                    <PMID Version="1">25921536</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>BMC Genomics. 2016 Feb 27;17:145</RefSource>
+                    <PMID Version="1">26921259</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Eur J Surg Oncol. 1985 Mar;11(1):15-20</RefSource>
+                    <PMID Version="1">3987908</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>IEEE Trans Nanobioscience. 2004 Sep;3(3):164-71</RefSource>
+                    <PMID Version="1">15473068</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Med Clin (Barc). 2017 Feb 21;:null</RefSource>
+                    <PMID Version="1">28236470</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Methods Mol Biol. 2016;1462:139-55</RefSource>
+                    <PMID Version="1">27604717</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Acta Psychiatr Scand Suppl. 1971;221:120-7</RefSource>
+                    <PMID Version="1">5286323</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Pharmacogenomics. 2007 Jul;8(7):683-6</RefSource>
+                    <PMID Version="1">18240899</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Sci Rep. 2016 Jun 23;6:28415</RefSource>
+                    <PMID Version="1">27335086</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Front Physiol. 2016 Dec 27;7:644</RefSource>
+                    <PMID Version="1">28082911</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Psychiatry. 2017 Mar;22(3):384-395</RefSource>
+                    <PMID Version="1">27001617</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Biol Psychiatry. 2014 Jun 15;75(12):920-8</RefSource>
+                    <PMID Version="1">24286759</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 2006 Apr 18;103(16):6332-7</RefSource>
+                    <PMID Version="1">16601104</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Proteome Res. 2008 Oct;7(10):4266-77</RefSource>
+                    <PMID Version="1">18778095</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Methods Inf Med. 1998 Nov;37(4-5):564-75</RefSource>
+                    <PMID Version="1">9865054</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Am J Med Genet B Neuropsychiatr Genet. 2007 Dec 5;144B(8):1048-53</RefSource>
+                    <PMID Version="1">17525973</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Cogn Neuropsychiatry. 2009;14(4-5):419-50</RefSource>
+                    <PMID Version="1">19634038</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Cogn Neuropsychol. 2005 May;22(3):262-75</RefSource>
+                    <PMID Version="1">21038249</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Sao Paulo Med J. 2003 May 5;121(3):111-6</RefSource>
+                    <PMID Version="1">12920472</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Food Drug Anal. 2013 Dec;21(4):S87-S90</RefSource>
+                    <PMID Version="1">25214750</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS One. 2014 Sep 18;9(9):e107268</RefSource>
+                    <PMID Version="1">25233467</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genet Mol Res. 2016 Dec 19;15(4):</RefSource>
+                    <PMID Version="1">28002588</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Stud Health Technol Inform. 1998;52 Pt 2:1192-6</RefSource>
+                    <PMID Version="1">10384648</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Sci Data. 2016 Dec 06;3:160110</RefSource>
+                    <PMID Version="1">27922632</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Pharmacogenet Genomics. 2009 Sep;19(9):666-74</RefSource>
+                    <PMID Version="1">19724244</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Stud Health Technol Inform. 2004;107(Pt 1):416-9</RefSource>
+                    <PMID Version="1">15360846</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Eur J Hum Genet. 2013 Nov;21(11):1293-9</RefSource>
+                    <PMID Version="1">23443019</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nucleic Acids Res. 2013 Jan;41(Database issue):D801-7</RefSource>
+                    <PMID Version="1">23161693</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Br J Psychiatry. 1990 Jan;156:79-83</RefSource>
+                    <PMID Version="1">2297623</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Genet. 2010 May;42(5):448-53</RefSource>
+                    <PMID Version="1">20418888</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Hum Mol Genet. 2009 Aug 15;18(16):3125-35</RefSource>
+                    <PMID Version="1">19443489</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Stud Health Technol Inform. 2001;84(Pt 1):118-22</RefSource>
+                    <PMID Version="1">11604718</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Cancer Epidemiol Biomarkers Prev. 2016 Apr;25(4):693-9</RefSource>
+                    <PMID Version="1">26827895</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>N Engl J Med. 2015 Feb 26;372(9):793-5</RefSource>
+                    <PMID Version="1">25635347</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Psychother Psychosom. 2015;84(1):22-9</RefSource>
+                    <PMID Version="1">25547421</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Syst Rev. 2017 Apr 4;6(1):69</RefSource>
+                    <PMID Version="1">28376926</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Neurology. 2005 Mar 8;64(5):895-8</RefSource>
+                    <PMID Version="1">15753432</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Int J Data Min Bioinform. 2008;2(1):54-77</RefSource>
+                    <PMID Version="1">18399328</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Epigenetics. 2013 Oct;8(10):1030-8</RefSource>
+                    <PMID Version="1">23907097</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Sci Rep. 2016 Jun 13;6:27923</RefSource>
+                    <PMID Version="1">27295340</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Am J Med Genet B Neuropsychiatr Genet. 2006 Apr 5;141B(3):261-8</RefSource>
+                    <PMID Version="1">16526044</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Proteome Res. 2012 Dec 7;11(12):5856-62</RefSource>
+                    <PMID Version="1">23106572</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Psychiatr Res. 2007 Sep;41(6):493-501</RefSource>
+                    <PMID Version="1">16750834</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Carcinogenesis. 2016 Mar;37(3):269-279</RefSource>
+                    <PMID Version="1">26818358</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15533-8</RefSource>
+                    <PMID Version="1">16223876</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Br J Psychiatry. 2000 Sep;177:212-7</RefSource>
+                    <PMID Version="1">11040880</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Cell. 2013 Dec 19;155(7):1451-63</RefSource>
+                    <PMID Version="1">24315484</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Neuroscience. 2009 Nov 24;164(1):30-42</RefSource>
+                    <PMID Version="1">19344640</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Psychiatry. 2015 Nov;20(11):1266-85</RefSource>
+                    <PMID Version="1">26283638</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Neuropsychobiology. 2006;54(1):70-4</RefSource>
+                    <PMID Version="1">17028448</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Natl Cancer Inst. 2011 Sep 7;103(17 ):1342-6</RefSource>
+                    <PMID Version="1">21747048</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Neuropharmacology. 2004;47 Suppl 1:148-66</RefSource>
+                    <PMID Version="1">15464134</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Nerv Ment Dis. 2009 Jul;197(7):530-5</RefSource>
+                    <PMID Version="1">19597361</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Postepy Hig Med Dosw (Online). 2016 Mar 04;70:186-93</RefSource>
+                    <PMID Version="1">26943316</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Oncogene. 2013 Mar 14;32(11):1384-95</RefSource>
+                    <PMID Version="1">22614008</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>CNS Spectr. 2015 Oct;20(5):469-73</RefSource>
+                    <PMID Version="1">26349811</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Rev Genet. 2010 Dec;11(12):855-66</RefSource>
+                    <PMID Version="1">21085204</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Drug Discov Today. 2005 Nov 15;10(22):1551-8</RefSource>
+                    <PMID Version="1">16257378</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Abnorm Psychol. 2013 Aug;122(3):917-27</RefSource>
+                    <PMID Version="1">23647123</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Psychiatry. 2008 Dec;13(12):1118-28</RefSource>
+                    <PMID Version="1">17938634</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nucleic Acids Res. 2009 Jan;37(Database issue):D603-10</RefSource>
+                    <PMID Version="1">18953024</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Psychiatry. 2016 Oct;21(10):1381-90</RefSource>
+                    <PMID Version="1">26666204</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS Genet. 2012;8(10):e1003005</RefSource>
+                    <PMID Version="1">23093944</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Eur J Hum Genet. 2015 Aug;23(8):1106-10</RefSource>
+                    <PMID Version="1">25424713</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Am J Med Genet B Neuropsychiatr Genet. 2016 Apr;171B(3):414-26</RefSource>
+                    <PMID Version="1">26892569</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genet Mol Res. 2016 Sep 23;15(3):</RefSource>
+                    <PMID Version="1">27706775</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Schizophr Res. 2009 Oct;114(1-3):6-16</RefSource>
+                    <PMID Version="1">19695837</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Psychiatry. 2016 May;21(5):594-600</RefSource>
+                    <PMID Version="1">26952864</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Neurobiol Dis. 2009 Aug;35(2):157-64</RefSource>
+                    <PMID Version="1">18938247</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Int J Neuropsychopharmacol. 2014 Oct 31;18(2):null</RefSource>
+                    <PMID Version="1">25609598</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Lancet Oncol. 2014 Nov;15(12):e568-80</RefSource>
+                    <PMID Version="1">25439699</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Clin Epigenetics. 2015 Oct 16;7:113</RefSource>
+                    <PMID Version="1">26478754</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Psychiatry Investig. 2015 Oct;12(4):523-31</RefSource>
+                    <PMID Version="1">26508964</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Am J Psychiatry. 2010 May;167(5):509-27</RefSource>
+                    <PMID Version="1">20231323</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Xenobiotica. 2010 Jun;40(6):381-92</RefSource>
+                    <PMID Version="1">20307138</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Int J Bipolar Disord. 2015 Dec;3(1):21</RefSource>
+                    <PMID Version="1">26440506</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Affect Disord. 2013 May 15;148(1):57-65</RefSource>
+                    <PMID Version="1">23276701</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Brief Bioinform. 2013 Nov;14(6):696-712</RefSource>
+                    <PMID Version="1">22962340</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Electrophoresis. 2016 Jun;37(11):1549-61</RefSource>
+                    <PMID Version="1">26957254</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Neuroimage. 2017 Jan 15;145(Pt B):389-408</RefSource>
+                    <PMID Version="1">26658930</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Anal Bioanal Chem. 2013 Jun;405(15):5291-300</RefSource>
+                    <PMID Version="1">23571465</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Acta Psychiatr Scand. 2008 May;117(5):323-36</RefSource>
+                    <PMID Version="1">18331573</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Hum Mol Genet. 2011 Dec 15;20(24):4786-96</RefSource>
+                    <PMID Version="1">21908516</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Int J Neurosci. 2012 Apr;122(4):165-76</RefSource>
+                    <PMID Version="1">22115417</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Salud Publica Mex. 2009;51 Suppl 2:s263-9</RefSource>
+                    <PMID Version="1">19967282</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Methods Mol Biol. 2016;1462:157-74</RefSource>
+                    <PMID Version="1">27604718</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Psychiatry. 2015 Mar;20(3):286-8</RefSource>
+                    <PMID Version="1">25582618</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Int J Neuropsychopharmacol. 2015 Oct 09;19(3):pyv096</RefSource>
+                    <PMID Version="1">26453695</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nature. 2014 Jan 16;505(7483):361-6</RefSource>
+                    <PMID Version="1">24352232</PMID>
+                </CommentsCorrections>
+            </CommentsCorrectionsList>
+            <KeywordList Owner="NOTNLM">
+                <Keyword MajorTopicYN="N">diagnosis</Keyword>
+                <Keyword MajorTopicYN="N">lung cancer</Keyword>
+                <Keyword MajorTopicYN="N">omics</Keyword>
+                <Keyword MajorTopicYN="N">psychiatry</Keyword>
+                <Keyword MajorTopicYN="N">systems biology</Keyword>
+            </KeywordList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2016</Year>
+                    <Month>09</Month>
+                    <Day>20</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2017</Year>
+                    <Month>04</Month>
+                    <Day>19</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2017</Year>
+                    <Month>5</Month>
+                    <Day>25</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2017</Year>
+                    <Month>5</Month>
+                    <Day>26</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2017</Year>
+                    <Month>5</Month>
+                    <Day>26</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">28536537</ArticleId>
+                <ArticleId IdType="doi">10.3389/fphys.2017.00286</ArticleId>
+                <ArticleId IdType="pmc">PMC5422874</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+
+
+    <PubmedArticle>
+        <MedlineCitation Status="MEDLINE" Owner="NLM">
+            <PMID Version="1">28410570</PMID>
+            <DateCreated>
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </DateCreated>
+            <DateCompleted>
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>18</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>18</Day>
+            </DateRevised>
+            <Article PubModel="Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1471-2148</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>17</Volume>
+                        <Issue>1</Issue>
+                        <PubDate>
+                            <Year>2017</Year>
+                            <Month>Apr</Month>
+                            <Day>14</Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>BMC evolutionary biology</Title>
+                    <ISOAbbreviation>BMC Evol. Biol.</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Natural selection drove metabolic specialization of the chromatophore in Paulinella chromatophora.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>99</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12862-017-0947-6</ELocationID>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Genome degradation of host-restricted mutualistic endosymbionts has been attributed to inactivating mutations and genetic drift while genes coding for host-relevant functions are conserved by purifying selection. Unlike their free-living relatives, the metabolism of mutualistic endosymbionts and endosymbiont-originated organelles is specialized in the production of metabolites which are released to the host. This specialization suggests that natural selection crafted these metabolic adaptations. In this work, we analyzed the evolution of the metabolism of the chromatophore of Paulinella chromatophora by in silico modeling. We asked whether genome reduction is driven by metabolic engineering strategies resulted from the interaction with the host. As its widely known, the loss of enzyme coding genes leads to metabolic network restructuring sometimes improving the production rates. In this case, the production rate of reduced-carbon in the metabolism of the chromatophore.</AbstractText>
+                    <AbstractText Label="RESULTS" NlmCategory="RESULTS">We reconstructed the metabolic networks of the chromatophore of P. chromatophora CCAC 0185 and a close free-living relative, the cyanobacterium Synechococcus sp. WH 5701. We found that the evolution of free-living to host-restricted lifestyle rendered a fragile metabolic network where &gt;80% of genes in the chromatophore are essential for metabolic functionality. Despite the lack of experimental information, the metabolic reconstruction of the chromatophore suggests that the host provides several metabolites to the endosymbiont. By using these metabolites as intracellular conditions, in silico simulations of genome evolution by gene lose recover with 77% accuracy the actual metabolic gene content of the chromatophore. Also, the metabolic model of the chromatophore allowed us to predict by flux balance analysis a maximum rate of reduced-carbon released by the endosymbiont to the host. By inspecting the central metabolism of the chromatophore and the free-living cyanobacteria we found that by improvements in the gluconeogenic pathway the metabolism of the endosymbiont uses more efficiently the carbon source for reduced-carbon production. In addition, our in silico simulations of the evolutionary process leading to the reduced metabolic network of the chromatophore showed that the predicted rate of released reduced-carbon is obtained in less than 5% of the times under a process guided by random gene deletion and genetic drift. We interpret previous findings as evidence that natural selection at holobiont level shaped the rate at which reduced-carbon is exported to the host. Finally, our model also predicts that the ABC phosphate transporter (pstSACB) which is conserved in the genome of the chromatophore of P. chromatophora strain CCAC 0185 is a necessary component to release reduced-carbon molecules to the host.</AbstractText>
+                    <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our evolutionary analysis suggests that in the case of Paulinella chromatophora natural selection at the holobiont level played a prominent role in shaping the metabolic specialization of the chromatophore. We propose that natural selection acted as a &quot;metabolic engineer&quot; by favoring metabolic restructurings that led to an increased release of reduced-carbon to the host.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Valadez-Cano</LastName>
+                        <ForeName>Cecilio</ForeName>
+                        <Initials>C</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Departamento de Ingeniería Genética, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional, Unidad Irapuato, Km. 9.6 Libramiento Norte Carr. Irapuato-León, 36821, Guanajuato, Irapuato, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Olivares-Hernández</LastName>
+                        <ForeName>Roberto</ForeName>
+                        <Initials>R</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Departamento de Procesos y Tecnología, Universidad Autónoma Metropolitana-Cuajimalpa, Av. Vasco de Quiroga 4871, Santa Fe, Del. Cuajimalpa, C.P. 05348, Ciudad de Mexico, México, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Resendis-Antonio</LastName>
+                        <ForeName>Osbaldo</ForeName>
+                        <Initials>O</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Human Systems Biology Laboratory, Coordinación de la Investigación Científica-Red de Apoyo a la Investigación (RAI), UNAM, México City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Instituto Nacional de Medicina Genómica (INMEGEN), 14610, México City, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>DeLuna</LastName>
+                        <ForeName>Alexander</ForeName>
+                        <Initials>A</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Unidad de Genómica Avanzada (Langebio), Centro de Investigación y de Estudios Avanzados del IPN, Guanajuato, Irapuato, Mexico.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Delaye</LastName>
+                        <ForeName>Luis</ForeName>
+                        <Initials>L</Initials>
+                        <Identifier Source="ORCID">http://orcid.org/0000-0003-4193-2720</Identifier>
+                        <AffiliationInfo>
+                            <Affiliation>Departamento de Ingeniería Genética, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional, Unidad Irapuato, Km. 9.6 Libramiento Norte Carr. Irapuato-León, 36821, Guanajuato, Irapuato, Mexico. luis.delaye@cinvestav.mx.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2017</Year>
+                    <Month>04</Month>
+                    <Day>14</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>England</Country>
+                <MedlineTA>BMC Evol Biol</MedlineTA>
+                <NlmUniqueID>100966975</NlmUniqueID>
+                <ISSNLinking>1471-2148</ISSNLinking>
+            </MedlineJournalInfo>
+            <ChemicalList>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="D006601">Hexoses</NameOfSubstance>
+                </Chemical>
+            </ChemicalList>
+            <CitationSubset>IM</CitationSubset>
+            <CommentsCorrectionsList>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Biol Evol. 2014 Apr;31(4):857-71</RefSource>
+                    <PMID Version="1">24398322</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Bioinformatics. 2003 May 1;19(7):891-2</RefSource>
+                    <PMID Version="1">12724301</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Cell. 2013 Jun 20;153(7):1567-78</RefSource>
+                    <PMID Version="1">23791183</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 2015 Aug 18;112(33):10169-76</RefSource>
+                    <PMID Version="1">25713367</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Plant Physiol. 1977 Jun;59(6):1146-55</RefSource>
+                    <PMID Version="1">16660011</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Annu Rev Chem Biomol Eng. 2011;2:211-36</RefSource>
+                    <PMID Version="1">22432617</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Trends Biotechnol. 2011 Aug;29(8):370-8</RefSource>
+                    <PMID Version="1">21561673</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Microb Cell Fact. 2012 Dec 11;11:156</RefSource>
+                    <PMID Version="1">23232052</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 1996 Apr 2;93(7):2873-8</RefSource>
+                    <PMID Version="1">8610134</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Elife. 2015 Dec 29;4:</RefSource>
+                    <PMID Version="1">26714105</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Rev Microbiol. 2011 Nov 08;10(1):13-26</RefSource>
+                    <PMID Version="1">22064560</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Metab Eng. 2011 Jul;13(4):353-63</RefSource>
+                    <PMID Version="1">21569861</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Biol Sci. 2014 Sep 22;281(1791):20141163</RefSource>
+                    <PMID Version="1">25080346</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>BMC Syst Biol. 2009 Feb 21;3:24</RefSource>
+                    <PMID Version="1">19232131</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nature. 2006 Mar 30;440(7084):667-70</RefSource>
+                    <PMID Version="1">16572170</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Metab Eng. 2008 Sep;10 (5):227-33</RefSource>
+                    <PMID Version="1">18611443</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Protist. 2005 Dec;156(4):425-32</RefSource>
+                    <PMID Version="1">16310747</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genetica. 2008 Oct;134(2):205-10</RefSource>
+                    <PMID Version="1">18046510</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS Biol. 2005 Apr;3(4):e121</RefSource>
+                    <PMID Version="1">15780005</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Metab Eng. 1999 Jan;1(1):1-11</RefSource>
+                    <PMID Version="1">10935750</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS One. 2016 Feb 17;11(2):e0149423</RefSource>
+                    <PMID Version="1">26885654</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Biol Evol. 2004 Jun;21(6):1110-22</RefSource>
+                    <PMID Version="1">15014155</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS Genet. 2012;8(5):e1002651</RefSource>
+                    <PMID Version="1">22589730</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>MBio. 2015 Nov 10;6(6):e01732-15</RefSource>
+                    <PMID Version="1">26556278</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 2015 Aug 18;112(33):10208-15</RefSource>
+                    <PMID Version="1">25825767</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS One. 2009;4(3):e4969</RefSource>
+                    <PMID Version="1">19305500</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Radiology. 1982 Apr;143(1):29-36</RefSource>
+                    <PMID Version="1">7063747</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>J Bacteriol. 2008 Apr;190(8):2790-803</RefSource>
+                    <PMID Version="1">18192387</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Ecol. 2014 Mar;23(6):1473-96</RefSource>
+                    <PMID Version="1">23952067</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Biotechnol Bioeng. 2003 Dec 20;84(6):647-57</RefSource>
+                    <PMID Version="1">14595777</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS Comput Biol. 2008 Oct;4(10):e1000210</RefSource>
+                    <PMID Version="1">18974823</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Photosynth Res. 1987 Jan;14(3):211-27</RefSource>
+                    <PMID Version="1">24430736</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>BMC Microbiol. 2012 Jan 18;12 Suppl 1:S5</RefSource>
+                    <PMID Version="1">22376077</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genetics. 1998 Aug;149(4):2135-46</RefSource>
+                    <PMID Version="1">9691064</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Protoc. 2011 Aug 04;6(9):1290-307</RefSource>
+                    <PMID Version="1">21886097</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS One. 2012;7(1):e30652</RefSource>
+                    <PMID Version="1">22292008</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 2012 Feb 14;109(7):2678-83</RefSource>
+                    <PMID Version="1">22308420</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>BMC Bioinformatics. 2005 Dec 23;6:308</RefSource>
+                    <PMID Version="1">16375763</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Insect Mol Biol. 2010 Mar;19 Suppl 2:249-58</RefSource>
+                    <PMID Version="1">20482655</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>BMC Syst Biol. 2011 Jan 21;5:12</RefSource>
+                    <PMID Version="1">21251315</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Trends Plant Sci. 2013 Dec;18(12):673-9</RefSource>
+                    <PMID Version="1">24126104</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Photosynth Res. 2011 Jan;107(1):117-32</RefSource>
+                    <PMID Version="1">20405214</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Biol Sci. 2008 Jan 7;275(1630):91-100</RefSource>
+                    <PMID Version="1">17971325</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>BMC Biol. 2012 Apr 24;10:35</RefSource>
+                    <PMID Version="1">22531210</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Microbiol Mol Biol Rev. 2004 Dec;68(4):745-70</RefSource>
+                    <PMID Version="1">15590782</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genome Biol. 2007;8(10):R212</RefSource>
+                    <PMID Version="1">17919328</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS Comput Biol. 2011 Feb;7(2):e1001082</RefSource>
+                    <PMID Version="1">21379323</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Biotechnol. 2010 Mar;28(3):245-8</RefSource>
+                    <PMID Version="1">20212490</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>BMC Genomics. 2006 Apr 30;7:100</RefSource>
+                    <PMID Version="1">16646993</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Biol Evol. 2010 Jul;27(7):1530-7</RefSource>
+                    <PMID Version="1">20123796</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>BMC Evol Biol. 2009 May 13;9:98</RefSource>
+                    <PMID Version="1">19439085</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Trends Microbiol. 1998 Jul;6(7):263-8</RefSource>
+                    <PMID Version="1">9717214</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>PLoS Biol. 2004 Mar;2(3):E69</RefSource>
+                    <PMID Version="1">15024419</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Curr Biol. 2008 Mar 25;18(6):410-8</RefSource>
+                    <PMID Version="1">18356055</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nature. 2000 Sep 7;407(6800):81-6</RefSource>
+                    <PMID Version="1">10993077</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Rev Genet. 2008 Mar;9(3):218-29</RefSource>
+                    <PMID Version="1">18268509</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Philos Trans R Soc Lond B Biol Sci. 2007 Oct 29;362(1486):1751-62</RefSource>
+                    <PMID Version="1">17510022</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Mol Biol Evol. 2011 Jan;28(1):407-22</RefSource>
+                    <PMID Version="1">20702568</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Genome Res. 2009 Aug;19(8):1450-4</RefSource>
+                    <PMID Version="1">19502381</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                    <PMID Version="1">20057383</PMID>
+                </CommentsCorrections>
+                <CommentsCorrections RefType="Cites">
+                    <RefSource>Proc Natl Acad Sci U S A. 2012 Apr 3;109(14):5340-5</RefSource>
+                    <PMID Version="1">22371600</PMID>
+                </CommentsCorrections>
+            </CommentsCorrectionsList>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName UI="D005075" MajorTopicYN="N">Biological Evolution</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D056907" MajorTopicYN="N">Cercozoa</DescriptorName>
+                    <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D000458" MajorTopicYN="N">Cyanobacteria</DescriptorName>
+                    <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D006601" MajorTopicYN="N">Hexoses</DescriptorName>
+                    <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D012641" MajorTopicYN="N">Selection, Genetic</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D013559" MajorTopicYN="N">Symbiosis</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D046940" MajorTopicYN="N">Synechococcus</DescriptorName>
+                    <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                    <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                </MeshHeading>
+            </MeshHeadingList>
+            <KeywordList Owner="NOTNLM">
+                <Keyword MajorTopicYN="N">Adaptation</Keyword>
+                <Keyword MajorTopicYN="N">Endosymbiont</Keyword>
+                <Keyword MajorTopicYN="N">Metabolic evolution</Keyword>
+                <Keyword MajorTopicYN="N">Metabolic integration</Keyword>
+            </KeywordList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2017</Year>
+                    <Month>01</Month>
+                    <Day>04</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2017</Year>
+                    <Month>03</Month>
+                    <Day>28</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2017</Year>
+                    <Month>4</Month>
+                    <Day>16</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2017</Year>
+                    <Month>4</Month>
+                    <Day>16</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2017</Year>
+                    <Month>4</Month>
+                    <Day>19</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">28410570</ArticleId>
+                <ArticleId IdType="doi">10.1186/s12862-017-0947-6</ArticleId>
+                <ArticleId IdType="pii">10.1186/s12862-017-0947-6</ArticleId>
+                <ArticleId IdType="pmc">PMC5392233</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+    <PubmedArticle>
+        <MedlineCitation Status="In-Data-Review" Owner="NLM">
             <PMID Version="1">28082911</PMID>
             <DateCreated>
                 <Year>2017</Year>
