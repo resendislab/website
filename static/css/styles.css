@@ -88,7 +88,22 @@ a {
 }
 
 .mdl-card__supporting-text img {
-    width: 100%;
+    width: calc(100% - 2em);
+}
+
+.mdl-card__supporting-text.book p img {
+    display: block;
+    max-width: 240px;
+    padding: 0 1em 0 1em;
+    margin: auto;
+}
+
+@media screen and (min-width: 640px) {
+.mdl-card__supporting-text.book p img {
+    float: left;
+    padding-right: 2em;
+    margin: 0;
+}
 }
 
 .card .mdl-card__title {

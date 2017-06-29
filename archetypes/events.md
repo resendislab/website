@@ -1,7 +1,7 @@
 +++
-date = ""
+date = {{ .Date }}
+title = "Event name"
 end = ""
-title = ""
 place = "INMEGEN"
 maps = "https://goo.gl/maps/1CUc2NA46Bu"
 webpage = "https://"

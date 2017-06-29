@@ -1,5 +1,5 @@
 +++
-date = ""
+date = {{ .Date }}
 image = ""
 categories = ["science", "tutorial"]
 author = "Your Name"

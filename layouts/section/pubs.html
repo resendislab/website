@@ -30,9 +30,9 @@
 {{ range where .Data.Pages "Params.what" "book"}}
 <div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
 <div class="mdl-card mdl-shadow--4dp">
-<div class="mdl-card__supporting-text">
+<div class="mdl-card__supporting-text book">
 <h1 class="mdl-color-text--primary">{{ .Title }}</h1>
-<h3 class="mdl-color-text--gray">{{ .Date.Year }}</h3>
+<h3 class="mdl-color-text--gray">{{ dateFormat "January 2006" .Date }}</h3>
 <h2 class="mdl-color-text--teal-500">{{ delimit .Params.authors ", " " and "}}</h2>
 <p style="font-size: 13px; margin-top: .5em">{{ if .Keywords }}Keywords: {{ delimit .Keywords ", " }}{{ end }}</p>
 {{ if .Content }}{{ .Content }}{{ end }}

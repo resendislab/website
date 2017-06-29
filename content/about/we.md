@@ -21,11 +21,3 @@ Lastly, our laboratory is leading efforts to test the utility of computational
 schemes to explore themes related with cancer studies, such as the influence of
 microbiome in cancer, the study of the biological networks regulating the
 epithelial messenchymal transition and tumor heterogeneity in cancer.
-
-
-**Osbaldo Resendis-Antonio, PhD**</br/>
-Laboratory in Systems Biology and Human Diseases</br/>
-Associated Professor</br/>
-[Instituto Nacional de Medicina Genomica – INMEGEN](https://google.com/maps/place/inmegen)</br/>
-Periferico Sur 4809, Arenal Tepepan, Tlalpan, 14610 Mexico City, CDMX</br/>
-Phone: +52 55 5350 1900 - Ext.1198</br/>

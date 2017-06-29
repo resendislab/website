@@ -2,10 +2,10 @@
 authors = ["First Author", "Second Author"]
 title = ""
 journal = ""
-date = ""
 what = "article"
 doi = ""
 pubmed = ""
+date = ""
 +++
 
 An optional short description.

@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+<div class="page-content mdl-grid">
+<div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet" style="margin-bottom: 2em">
+    <div class="card mdl-card mdl-shadow--4dp">
+    <div class="mdl-card__title mdl-color--indigo-900" style="height:auto">
+        <h1 class="mdl-card__title-text">Work with us</h1>
+    </div>
+    </div>
+</div>
+{{ range where .Data.Pages "Section" "positions" }}
+<div class="mdl-cell mdl-cell--12-col-desktop mdl-cell--8-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
+<div class="mdl-card mdl-shadow--4dp">
+<div class="mdl-card__supporting-text">
+<h1 class="mdl-color-text--primary">{{ .Title }}</h1>
+<h2 class="mdl-color-text--teal-500">{{ .Params.Author }}</h2>
+<h3>{{ dateFormat "02-01-2006" .Date }}</h3>
+<br>{{ .Content }}
+</div>
+</div>
+</div>
+{{end}}
+</div>
+{{ partial "footer.html" . }}

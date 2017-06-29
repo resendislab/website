@@ -1,5 +1,5 @@
 +++
-date = ""
+date = {{ .Date }}
 people = ["Project Leader", "Project Member #2"]
 title = "Project"
 +++
