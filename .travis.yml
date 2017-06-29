@@ -8,8 +8,8 @@ env:
     - HUGO_VER: 0.24.1
 
 install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v$HUGO_VER/hugo_$HUGO_VER_Linux-64bit.tar.gz -O hugo.tar.gz
-  - tar xvzf hugo.tar.gz && cp hugo_$HUGO_VER_linux_amd64/hugo_$HUGO_VER_linux_amd64 ./hugo
+  - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER}/hugo_${HUGO_VER}_Linux-64bit.tar.gz -O hugo.tar.gz
+  - tar xvzf hugo.tar.gz && cp hugo_${HUGO_VER}_linux_amd64/hugo_${HUGO_VER}_linux_amd64 ./hugo
 
 script:
   - ./hugo -d public
