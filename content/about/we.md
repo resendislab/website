@@ -4,10 +4,12 @@ title = "Who we are"
 +++
 
 Welcome to the webpage of the Human Systems Biology group in the National
-Institute of Genome Medicine at Mexico City, INMEGEN. Our group is
+Institute for Genomic Medicine at Mexico City, INMEGEN. Our group is
 interdisciplinary and have the objective to develop a systems biology framework
 to analyze mainly human diseases and metabolic phenotype in microorganisms
 through the use of computational models and high-throughput technologies.
+
+![group photo](/media/group.jpg)
 
 Currently, our laboratory focuses on the analysis of metabolic alterations in
 cancer cells by the implementation of genome scale metabolic reconstructions and
