@@ -8,7 +8,7 @@ We extend an invitation to undergrads and grad students with interest to
 continue his/her academic education through a Master's or Doctoral degree in one
 of these academic programs: biological (http://pcbiol.posgrado.unam.mx),
 biochemical (http://www.mdcbq.posgrado.unam.mx/) or Biomedical
-(http://www.pdcb.unam.mx/)) Sciences at UNAM. We encourage candidates with an
+(http://www.pdcb.unam.mx/) Sciences at UNAM. We encourage candidates with an
 academic background in biology, biology physics, biophysics, genome sciences,
 applied mathematics and computational sciences. The students incorporated to one
 of these programs will be guided to develop a systems biology description in one
