@@ -131,7 +131,7 @@ In this project we combine large-scale genomic data from DNA and RNA sequencing 
       <pubDate>Mon, 05 Dec 2016 14:48:16 -0600</pubDate>
       
       <guid>https://resendislab.github.io/about/we/</guid>
-      <description>Welcome to the webpage of the Human Systems Biology group in the National Institute of Genome Medicine at Mexico City, INMEGEN. Our group is interdisciplinary and have the objective to develop a systems biology framework to analyze mainly human diseases and metabolic phenotype in microorganisms through the use of computational models and high-throughput technologies.
+      <description>Welcome to the webpage of the Human Systems Biology group in the National Institute for Genomic Medicine at Mexico City, INMEGEN. Our group is interdisciplinary and have the objective to develop a systems biology framework to analyze mainly human diseases and metabolic phenotype in microorganisms through the use of computational models and high-throughput technologies.
 Currently, our laboratory focuses on the analysis of metabolic alterations in cancer cells by the implementation of genome scale metabolic reconstructions and assess the predictions in terms of experimental data at different scales.</description>
     </item>
     
@@ -161,6 +161,15 @@ The IS3B is currently the largest symposium on Systems Biology in Mexico and Lat
       
       <guid>https://resendislab.github.io/pubs/pm27335086/</guid>
       <description>During the transition from a healthy state to a cancerous one, cells alter their metabolism to increase proliferation. The underlying metabolic alterations may be caused by a variety of different regulatory events on the transcriptional or post-transcriptional level whose identification contributes to the rational design of therapeutic targets. We present a mechanistic strategy capable of inferring enzymatic regulation from intracellular metabolome measurements that is independent of the actual mechanism of regulation.</description>
+    </item>
+    
+    <item>
+      <title>1st International Summer Symposium on Systems Biology</title>
+      <link>https://resendislab.github.io/events/is3b_2014/</link>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://resendislab.github.io/events/is3b_2014/</guid>
+      <description>Those are the proceedings for the 1st edition of the “International Summer Symposium on Systems Biology: From networks to phenotypes in human diseases”. The meeting took place at the National Institute of Genomic Medicine (INMEGEN) in Mexico City from August 4-6, 2014. This event was the first of a series of meetings to encourage the development of the systems biology in Mexico and the development of this area to tackle basic and applied research in medical and biomedical fields.</description>
     </item>
     
     <item>
@@ -295,7 +304,13 @@ The IS3B is currently the largest symposium on Systems Biology in Mexico and Lat
       <pubDate>Mon, 01 Jan 1900 00:00:00 +0000</pubDate>
       
       <guid>https://resendislab.github.io/about/contact/</guid>
-      <description> Directions  Osbaldo Resendis-Antonio, PhD Laboratory in Systems Biology and Human Diseases Associated Professor Instituto Nacional de Medicina Genomica – INMEGEN Periferico Sur 4809, Arenal Tepepan, Tlalpan, 14610 Mexico City, CDMX Phone: +52 55 5350 1900 - Ext.1198
+      <description> Directions 
+Osbaldo Resendis-Antonio, PhD
+Laboratory in Systems Biology and Human Diseases
+Associated Professor
+Instituto Nacional de Medicina Genomica – INMEGEN
+Periferico Sur 4809, Arenal Tepepan, Tlalpan, 14610 Mexico City, CDMX
+Phone: +52 55 5350 1900 - Ext.1198
  </description>
     </item>
     
