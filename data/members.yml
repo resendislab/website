@@ -50,17 +50,23 @@ current:
 - name: "Ugo Avila"
   function: "M.Sc. student"
   image: "ugo.jpg"
-  mail: "ugo.avila.ponce (at) gmail.com "
+  mail: "ugo.avila.ponce (at) gmail.com"
   website: "https://resendislab.inmegen.gob.mx"
   twitter: "inmegen"
+- name: "Akram Mendez"
+  function: "PostDoc"
+  image: "akram.jpg"
+  mail: "akramsharim (at) gmail.com"
+  website: "https://resendislab.inmegen.gob.mx"
+  twitter: "akrams"
+
+former:
 - name: "Ana Manzano"
   function: "visiting student"
   image: "placeholder.svg"
   mail: "oresendis (at) inmegen.gob.mx"
   website: "https://resendislab.inmegen.gob.mx"
   twitter: "inmegen"
-
-former:
 - name: "Carlos Salgado Muñoz"
   function: "Ph.D. student"
   image: "charly.jpg"
