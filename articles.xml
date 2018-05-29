@@ -1,4 +1,293 @@
 <PubmedArticleList>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29704665</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9130</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Apr</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods (San Diego, Calif.)</Title>
+                <ISOAbbreviation>Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synthesis of multi-omic data and community metabolic models reveals insights into the role of hydrogen sulfide in colon cancer.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1046-2023(17)30436-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ymeth.2018.04.024</ELocationID>
+            <Abstract>
+                <AbstractText>Multi-omic data and genome-scale microbial metabolic models have allowed us to examine microbial communities, community function, and interactions in ways that were not available to us historically. Now, one of our biggest challenges is determining how to integrate data and maximize data potential. Our study demonstrates one way in which to test a hypothesis by combining multi-omic data and community metabolic models. Specifically, we assess hydrogen sulfide production in colorectal cancer based on stool, mucosa, and tissue samples collected on and off the tumor site within the same individuals. 16S rRNA microbial community and abundance data were used to select and inform the metabolic models. We then used MICOM, an open source platform, to track the metabolic flux of hydrogen sulfide through a defined microbial community that either represented on-tumor or off-tumor sample communities. We also performed targeted and untargeted metabolomics, and used the former to quantitatively evaluate our model predictions. A deeper look at the models identified several unexpected but feasible reactions, microbes, and microbial interactions involved in hydrogen sulfide production for which our 16S and metabolomic data could not account. These results will guide future in vitro, in vivo, and in silico tests to establish why hydrogen sulfide production is increased in tumor tissue.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hale</LastName>
+                    <ForeName>Vanessa L</ForeName>
+                    <Initials>VL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Preventative Medicine, The Ohio State University College of Veterinary Medicine, Columbus, OH, USA; Microbiome Program, Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA; Department of Surgery, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeraldo</LastName>
+                    <ForeName>Patricio</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbiome Program, Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA; Department of Surgery, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mundy</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Janet</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbiome Program, Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keeney</LastName>
+                    <ForeName>Gary</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scott</LastName>
+                    <ForeName>Nancy</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheek</LastName>
+                    <ForeName>E Heidi</ForeName>
+                    <Initials>EH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davidson</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Green</LastName>
+                    <ForeName>Megan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martinez</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lehman</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pettry</LastName>
+                    <ForeName>Chandra</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reed</LastName>
+                    <ForeName>Erica</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lyke</LastName>
+                    <ForeName>Kelly</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>Bryan A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Carl R. Woese Institute for Genomic Biology, Department of Animal Sciences, Division of Nutritional Sciences, University of Illinois, Champaign-Urbana, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diener</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human Systems Biology Laboratory, National Institute of Genomic Medicine, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Resendis-Antonio</LastName>
+                    <ForeName>Osbaldo</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human Systems Biology Laboratory, National Institute of Genomic Medicine, Mexico City, Mexico; Coordinación de la Investigación Científica, Red de Apoyo a la Investigación, UNAM, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gransee</LastName>
+                    <ForeName>Jaime</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mayo Clinic Metabolomics Core Laboratory, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dutta</LastName>
+                    <ForeName>Tumpa</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mayo Clinic Metabolomics Core Laboratory, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petterson</LastName>
+                    <ForeName>Xuan-Mai</ForeName>
+                    <Initials>XM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mayo Clinic Metabolomics Core Laboratory, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boardman</LastName>
+                    <ForeName>Lisa</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Larson</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nelson</LastName>
+                    <ForeName>Heidi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbiome Program, Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA; Department of Surgery, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chia</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbiome Program, Center for Individualized Medicine, Mayo Clinic, Rochester, MN, USA; Department of Surgery, Mayo Clinic, Rochester, MN, USA. Electronic address: chia.nicholas@mayo.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods</MedlineTA>
+            <NlmUniqueID>9426302</NlmUniqueID>
+            <ISSNLinking>1046-2023</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29704665</ArticleId>
+            <ArticleId IdType="pii">S1046-2023(17)30436-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ymeth.2018.04.024</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+
     <PubmedArticle>
         <MedlineCitation Status="In-Data-Review" Owner="NLM">
             <PMID Version="1">28536537</PMID>
