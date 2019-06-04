@@ -12,7 +12,7 @@ install:
   - tar xvzf hugo.tar.gz
 
 script:
-  - ./hugo -d public
+  - ./hugo -F -d public
 
 deploy:
   skip_cleanup: true
