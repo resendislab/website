@@ -7,4 +7,4 @@ date = "2016-12-06"
 
 +++
 
-Alterations in the microbiome has been assiciated with diabetes progression.
+Alterations in the microbiome has been associated with diabetes progression.
