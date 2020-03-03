@@ -4,7 +4,7 @@
 <h2>Blending Biology and Computation to understand human diseases.</h2></div>
 <div class="page-content mdl-grid">
 <br><br>
-{{ range first 1 (where .Data.Pages "Section" "about")}}
+{{ range first 1 (where .Site.RegularPages "Section" "about")}}
 <div class="mdl-cell mdl-cell--12-col">
 <div class="card mdl-card mdl-shadow--4dp">
     <div class="mdl-card__supporting-text">
@@ -17,7 +17,7 @@
 </div></div>
 {{ end }}
 {{ $fornews := slice "posts" "events" }}
-{{ range first 1 (where .Data.Pages "Section" "in" $fornews)}}
+{{ range first 1 (where .Site.RegularPages "Section" "in" $fornews)}}
 <div class="mdl-cell mdl-cell--12-col">
 <div class="card mdl-card mdl-shadow--4dp">
     <div class="mdl-card__title" {{ if .Params.hero }}style="background: url('/media/{{.Params.hero}}') center / cover"{{end}}>
@@ -34,7 +34,7 @@
     </div>
 </div></div>
 {{end}}
-{{ range first 1 (where .Data.Pages "Section" "pubs")}}
+{{ range first 1 (where .Site.RegularPages "Section" "pubs")}}
 <div class="mdl-cell mdl-cell--12-col">
 <div class="card mdl-card mdl-shadow--4dp">
     <div class="mdl-card__title">
