@@ -3,7 +3,7 @@ authors = ["Christian Diener", "Osbaldo Resendis-Antonio"]
 title = "Micom: metagenome-scale modeling to infer metabolic interactions in the microbiota."
 journal = "Msystems 2020"
 what = "article"
-doi = "10.1101/361907 "
+doi = " 10.1128/mSystems.00606-19"
 pubmed = "31964767"
 date = "2018-07-04"
 +++
