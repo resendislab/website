@@ -1,6 +1,6 @@
 +++
 people = [
-  "Jean Paul Sanchez"
+  " "
 ]
 title = "Microbiome and diabetes"
 date = "2016-12-06"
