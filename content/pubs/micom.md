@@ -4,7 +4,7 @@ title = "Micom: metagenome-scale modeling to infer metabolic interactions in the
 journal = "Msystems 2020"
 what = "article"
 doi = "10.1101/361907 "
-pubmed = ""
+pubmed = "31964767"
 date = "2018-07-04"
 +++
 
