@@ -47,15 +47,16 @@ current:
   mail: "cramireza (at) ciencias.unam.mx"
   website: "https://resendislab.inmegen.gob.mx"
   twitter: "Jorgeabioexp"
+
+
+
+former:
 - name: "Fernanda Díaz"
   function: "Visiting Researcher"
   image: "fernanda.jpg"
   mail: "diaz.fernanda12 (at) gmail.com"
   website: "https://resendislab.inmegen.gob.mx"
-  twitter: "inmegen"
-
-
-former:
+  twitter: "inmegen"  
 - name: "Christian Diener"
   function: "PostDoc"
   image: "chris.jpg"
