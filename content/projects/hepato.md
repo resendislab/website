@@ -1,5 +1,5 @@
 +++
-date = "2016-12-06"
+date = "2018-12-06"
 title = "Integrating transcriptomic and metabolomic to understand hepatocellular carcinoma in a rat model"
 people = [
   "Erika Hernandez",

@@ -3,7 +3,7 @@ people = [
   "Erick Muciño"
 ]
 title = "The impact of the microRNAs in the metabolic reprogramming of the MCF-7 cells during the spheroids development"
-date = "2016-12-06"
+date = "2018-12-06"
 
 +++
 

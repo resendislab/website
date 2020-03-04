@@ -3,7 +3,7 @@ people = [
   "Christian Diener"
 ]
 title = "Metabolic heterogeneity in cancer and its applications in Personalized Medicine"
-date = "2016-12-06"
+date = "2018-12-06"
 
 +++
 
