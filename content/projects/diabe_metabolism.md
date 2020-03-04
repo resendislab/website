@@ -1,8 +1,8 @@
 +++
 people = [
-  " "
+  "Jean Paul Sanchez"
 ]
-title = "Microbiome and diabetes"
+title = "Microbiome metabolism and diabetes"
 date = "2016-12-06"
 
 +++
