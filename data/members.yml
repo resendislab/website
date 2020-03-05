@@ -71,7 +71,12 @@ current:
   mail: "vaneerincon94 (at) gmail.com"
   website: "https://resendislab.inmegen.gob.mx"
   twitter: "inmegen"
-
+- name: "Alfredo Rodriguez Arteaga"
+  function: "M.Sc student (visiting student)"
+  image: "placeholder.svg"
+  mail: "alfredo.r.arteaga (at) ciencias.unam.mx"
+  website: "https://resendislab.inmegen.gob.mx"
+  twitter: "inmegen"
 
 former:
 - name: "Carlos Ramírez Ramos"
