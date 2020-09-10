@@ -95,6 +95,12 @@ current:
   mail: "lmille (at) bwh.harvard.edu"
   website: "https://resendislab.inmegen.gob.mx"
   twitter: "inmegen"
+- name: "Daniel Neri Rosario"
+  function: "M Sc student"
+  image: "placeholder.svg"
+  mail: "danielneri533 (at) gmail.com"
+  website: "https://resendislab.inmegen.gob.mx"
+  twitter: "inmegen"
 
 former:
 - name: "Felipe Muñoz Gonzalez"
