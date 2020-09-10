@@ -4,7 +4,7 @@ title = "Unveiling functional heterogeneity in breast cancer multicellular tumor
 journal = "Scientific Reports"
 what = "article"
 doi = "10.1038/s41598-020-69026-7"
-pubmed = ""
+pubmed = "7391783"
 date = "2020-07-02"
 +++
 
