@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Webpage of the Resendis Lab</title>
+    <link>https://resendislab.github.io/projects/</link>
+    <description>Recent content in Projects on Webpage of the Resendis Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://resendislab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In silico study of metabolic reprogramming during epithelial-mesenchymal transition</title>
+      <link>https://resendislab.github.io/projects/emt/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://resendislab.github.io/projects/emt/</guid>
+      <description>An epithelial-mesenchymal transition (EMT) is a biologic process that allows a polarized epithelial cell, which normally interacts with basement membrane via its basal surface, to undergo multiple biochemical changes that enable it to assume a mesenchymal cell phenotype, which includes enhanced migratory capacity, invasiveness, elevated resistance to apoptosis, and greatly increased production of ECM components. EMT induces invasive properties in epithelial tumors and promotes metastasis. Although EMT-mediated cellular and molecular changes are well understood, very little is known about EMT-induced metabolic changes.</description>
+    </item>
+    
+    <item>
+      <title>Microbiome metabolism and diabetes</title>
+      <link>https://resendislab.github.io/projects/diabe_metabolism/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://resendislab.github.io/projects/diabe_metabolism/</guid>
+      <description>Alterations in the microbiome has been associated with diabetes progression.</description>
+    </item>
+    
+    <item>
+      <title>Immunology and cancer: Boolean Modeling of regulatory networks</title>
+      <link>https://resendislab.github.io/projects/inmunology_cancer/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://resendislab.github.io/projects/inmunology_cancer/</guid>
+      <description>Macrophages are cells of the innate immune system endowed with the capacity to orchestrate the immune response in human tissues. Due to their plasticity biological property, they polarize to several subtypes based on the actions of the tumor microenvironment. These cells have plasticity, because once they are committed to a subtype fate, they can polarize to another subtype by simply modifying the microenvironment. We integrated experimental data for the construction of a network that will explain the plasticity and the importance of the microenvironment in shaping the polarization of macrophages.</description>
+    </item>
+    
+    <item>
+      <title>Integrating transcriptomic and metabolomic to understand hepatocellular carcinoma in a rat model</title>
+      <link>https://resendislab.github.io/projects/hepato/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://resendislab.github.io/projects/hepato/</guid>
+      <description>Hepatocellular carcinoma (HCC) is now the third leading cause of cancer deaths worldwide, with over 500,000 people affected. It occurs predominantly in patients with underlying chronic liver disease and cirrhosis. Despite this, knowledge about the metabolic states of this disease is limited. Using a rat model that recreates some of the most important characteristics of HCC, including cirrhosis, we aim to understand the metabolic state when compared to healthy liver. To this end we will integrate transcriptomic and metabolic data in a systems biology framework that point us changes in reactions.</description>
+    </item>
+    
+    <item>
+      <title>Metabolic heterogeneity in cancer and its applications in Personalized Medicine</title>
+      <link>https://resendislab.github.io/projects/prolif/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://resendislab.github.io/projects/prolif/</guid>
+      <description>Cancer is a very heterogeneous disease and tumors can differ greatly across and within different cancer types. Consequently, cancer is not a single disease but thousands. One property shared by all cancers is the ability to sustain chronic uncontrolled proliferation which raises the question how different cancers alter their metabolism in order to achieve consistent proliferation.
+In this project we combine large-scale genomic data from DNA and RNA sequencing as well as proteomics and metabolomics to understand the connection between variations in the genotype and cancer metabolism.</description>
+    </item>
+    
+    <item>
+      <title>Systems biology and bioinformatics of single cell RNAseq data.</title>
+      <link>https://resendislab.github.io/projects/singlecell_thelma/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://resendislab.github.io/projects/singlecell_thelma/</guid>
+      <description>Research in personalized therapy has taken relevance because treatment failures due to intratumoral heterogenety which refers to celular diversity or subpopulations forming within the tumor. Currently, given complex molecular processes of cancer there has been greater use of omic technologies and computational analysis. With the purpuse to contribute in this line, we have opened a new line of research to describe the progress of expression profiles in tumor cell lines through bioinformatic analysis of single cell RNAseq data.</description>
+    </item>
+    
+    <item>
+      <title>The impact of the microRNAs in the metabolic reprogramming of the MCF-7 cells during the spheroids development</title>
+      <link>https://resendislab.github.io/projects/spheroids/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://resendislab.github.io/projects/spheroids/</guid>
+      <description>Alterations in the metabolism are a common property in cancer cells, so that, many efforts have been directed to develop models to understand the mechanism by which cancer cells behave differently compared to normal tissues. In recent years, it has been reported that microRNAs (miRNAs) are involved in the regulation of all biological process, and there are evidences that shown its dysregulation play an important role in the development and progression of cancer.</description>
+    </item>
+    
+  </channel>
+</rss>
