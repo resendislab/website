@@ -4,7 +4,7 @@ title = "Memote: A community driven effort towards a standardized genome-scale m
 journal = "Nature Biotechnology"
 what = "article"
 doi = "10.1101/350991"
-pubmed = ""
+pubmed = "32123384"
 date = "2020-03-02"
 +++
 
