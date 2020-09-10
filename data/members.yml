@@ -77,6 +77,12 @@ current:
   mail: "juliocesar.padron (at) cinvestav.mx"
   website: "https://resendislab.inmegen.gob.mx"
   twitter: "inmegen"
+- name: "David Giron"
+  function: "Ph D. student"
+  image: "placeholder.svg"
+  mail: "juliocesar.padron (at) cinvestav.mx"
+  website: "https://resendislab.inmegen.gob.mx"
+  twitter: "inmegen"
 
 former:
 - name: "Felipe Muñoz Gonzalez"
