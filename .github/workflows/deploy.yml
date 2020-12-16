@@ -23,6 +23,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.RESENDISLAB_2020 }}
-          external_repository: resendislab/resendislab.github.io 
+          external_repository: resendislab/resendislab.github.io
           publish_branch: master
-          publish_dir: ./
+          publish_dir: ./public
