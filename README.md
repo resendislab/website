@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/resendislab/website.svg?branch=master)](https://travis-ci.org/resendislab/website)
+![deploy](https://github.com/resendislab/website/workflows/deploy/badge.svg)
 
 # Versión estatica de la página
 
