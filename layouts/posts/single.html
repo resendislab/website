@@ -1,0 +1,24 @@
+{{ partial "header_single.html" . }}
+<style>
+    .mdl-grid { max-width: 1024px; }
+
+    .card .mdl-card__supporting-text {
+        padding: 2rem 4%;
+    }
+</style>
+<div class="page-content mdl-grid">
+<a class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect back" href="/{{.Section}}" id="back">
+<i class="material-icons">arrow_back</i></a>
+<span class="mdl-tooltip mdl-tooltip--right" for="back">Return to overview...</span>
+<div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
+<div class="card mdl-card mdl-shadow--4dp">
+    <div class="mdl-card__title" {{ if .Params.hero }}style="background: url('/media/{{.Params.hero}}') center / cover"{{end}}>
+    	<h1 class="mdl-card__title-text">{{ .Title }}</h1>
+    </div>
+	<div class="mdl-card__supporting-text">
+    <h3 class="mdl-color-text--teal-500">by {{ .Params.author }}</h3><br/>
+	{{ .Content }}
+	</div>
+</div></div></div>
+
+{{ partial "footer_single.html" . }}
