@@ -4,7 +4,7 @@ title = "MicroRNAs Regulate Metabolic Phenotypes During Multicellular Tumor Sphe
 journal= "Frontiers in Oncology"
 what = "article"
 doi="10.3389/fonc.2020.582396"
-pubmed = ""
+pubmed = "33425736"
 date = "2020-12-04"
 +++
 
