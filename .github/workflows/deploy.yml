@@ -24,5 +24,5 @@ jobs:
         with:
           personal_token: ${{ secrets.RESENDISLAB_2020 }}
           external_repository: resendislab/resendislab.github.io
-          publish_branch: source
+          publish_branch: master
           publish_dir: ./public
