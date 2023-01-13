@@ -2,7 +2,7 @@
 authors = ["Ugo Avila-Ponce de León", "Osbaldo Resendis-Antonio"]
 title = "Macrophage Boolean networks in the time of SARS-CoV-2"
 journal = "Frontiers in Immunology"
-what = "OPINION article"
+what = "article"
 doi = "10.3389/fimmu.2022.997434"
 pubmed = ""
 date = "2022-10-17"
