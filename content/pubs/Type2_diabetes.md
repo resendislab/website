@@ -2,7 +2,7 @@
 authors = ["Yoscelina Estrella Martínez-López", "Diego A Esquivel-Hernández", "Jean Paul Sánchez-Castañeda", "Daniel Neri-Rosario", "Rodolfo Guardado-Mendoza", "Osbaldo Resendis-Antonio"]
 title = "Type 2 diabetes, gut microbiome, and systems biology: A novel perspective for a new era"
 journal = "Gut Microbes"
-what = "Review"
+what = "article"
 doi = "10.1080/19490976.2022.2111952"
 pubmed = ""
 date = "2022-08-15"
