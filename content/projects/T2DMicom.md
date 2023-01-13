@@ -1,5 +1,5 @@
 +++
-date = {{2022-12-15}}
+date = "2022-12-15"
 people = ["Daniel Neri"]
 title = "Gut microbiota and type 2 diabetes"
 +++
