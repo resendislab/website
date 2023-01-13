@@ -1,8 +1,8 @@
 +++
 authors = ["Cristian Padron-Manrique", "Aaron Vazquez-Jimenez", "Diego A Esquivel-Hernandez", "Yoscelina Estrella Martinez-Lopez", "Daniel Neri-Rosario", "Jean Paul Sanchez", "David Giron-Villalobos", "Osbaldo Resendis-Antonio"]
-title = "mb-PHENIX: Diffusion and Supervised Uniform Manifold Approximation for denoising microbiota data"
+title = "Preprint: mb-PHENIX: Diffusion and Supervised Uniform Manifold Approximation for denoising microbiota data"
 journal = "bioRxiv"
-what = "pre-print"
+what = "article"
 doi = "10.1101/2022.06.23.497285"
 pubmed = ""
 date = ""
