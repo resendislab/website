@@ -1,8 +1,8 @@
 +++
 authors = ["Diego Armando Esquivel-Hernández", "Yoscelina Estrella Martínez-López", "Jean Paul Sánchez-Castañeda", "Daniel Neri-Rosario", "Cristian Padrón-Manrique", "David Girón-Villalobos", "Cristian Mendoza-Ortíz", "Osbaldo Resendis-Antonio"]
-title = "A network perspective on the ecology of gut microbiota and progression of Type 2 Diabetes: linkages to keystone taxa in a Mexican cohort"
+title = "prePrint: A network perspective on the ecology of gut microbiota and progression of Type 2 Diabetes: linkages to keystone taxa in a Mexican cohort"
 journal = "Research Square"
-what = "pre-print"
+what = "article"
 doi = "10.21203/rs.3.rs-1848436/v1"
 pubmed = ""
 date = "2022-07-20"
