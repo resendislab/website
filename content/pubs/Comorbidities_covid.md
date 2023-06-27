@@ -5,7 +5,7 @@ journal = "Archives of Medical Research"
 what = "article"
 doi = "10.1016/j.arcmed.2023.03.003"
 pubmed = "https://pubmed.ncbi.nlm.nih.gov/36990888/"
-date = "2023"
+date = "2023-01-01"
 +++
 
 Background and Aims
