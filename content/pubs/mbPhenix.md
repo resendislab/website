@@ -1,11 +1,15 @@
 +++
 authors = ["Cristian Padron-Manrique", "Aaron Vazquez-Jimenez", "Diego A Esquivel-Hernandez", "Yoscelina Estrella Martinez-Lopez", "Daniel Neri-Rosario", "Jean Paul Sanchez", "David Giron-Villalobos", "Osbaldo Resendis-Antonio"]
-title = "Preprint: mb-PHENIX: Diffusion and Supervised Uniform Manifold Approximation for denoising microbiota data"
-journal = "bioRxiv"
+title = "mb-PHENIX: Diffusion and Supervised Uniform Manifold Approximation for denoising microbiota data"
+journal = "Bioinformatics"
 what = "article"
-doi = "10.1101/2022.06.23.497285"
+doi = "10.1093/bioinformatics/btad706"
 pubmed = ""
-date = "2022-06-28"
+date = "2023-12-01"
 +++
-
-Microbiota data suffers from technical noise (reflected as excess of zeros in the count matrix) and the curse of dimensionality. This complicates downstream data analysis and compromises the scientific discovery’s reliability. Data sparsity makes it difficult to obtain a well-cluster structure and distorts the abundance distributions. Currently, there is a rised need to develop new algorithms with improved capacities to reduce noise and recover missing information. We present mb-PHENIX, an open-source algorithm developed in Python, that recovers taxa abundances from the noisy and sparse microbiota data. Our method deals with sparsity in the count matrix (in 16S microbiota and shotgun studies) by applying imputation via diffusion onto the supervised Uniform Manifold Approximation Projection (sUMAP) space. Our hybrid machine learning approach allows the user to denoise microbiota data. Thus, the differential abundance of microbes is more accurate among study groups, where abundance analysis fails.
+Motivation
+Microbiota data encounters challenges arising from technical noise and the curse of dimensionality, which affect the reliability of scientific findings. Furthermore, abundance matrices exhibit a zero-inflated distribution due to biological and technical influences. Consequently, there is a growing demand for advanced algorithms that can effectively recover missing taxa while also considering the preservation of data structure.
+Results
+We present mb-PHENIX, an open-source algorithm developed in Python that recovers taxa abundances from the noisy and sparse microbiota data. Our method infers the missing information of count matrix (in 16S microbiota and shotgun studies) by applying imputation via diffusion with supervised Uniform Manifold Approximation Projection (sUMAP) space as initialization. Our hybrid machine learning approach allows to denoise microbiota data, revealing differential abundance microbes among study groups where traditional abundance analysis fails.
+Availability and implementation
+The mb-PHENIX algorithm is available at https://github.com/resendislab/mb-PHENIX. An easy-to-use implementation is available on Google Colab (see GitHub).
