@@ -1,0 +1,11 @@
+baseurl = "https://resendislab.github.io"
+languageCode = "en-us"
+title = "Webpage of the Resendis Lab"
+relativeURLs = true
+
+[params]
+    mdlversion = "1.3.0"
+    mdltheme = "indigo-green"
+
+[markup.goldmark.renderer]
+    unsafe= true
