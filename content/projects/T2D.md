@@ -1,0 +1,7 @@
++++
+date = "2022-12-15"
+people = ["Estrella Martínez"]
+title = "Alteration of gut microbiota induced by metformin and linagliptin/metformin treatment prevents type 2 diabetes."
++++
+
+Lifestyle modifications, metformin and dipeptidyl peptidase type 4 inhibitors (DPP4i) reduce the incidence of type 2 diabetes (T2D) in people with prediabetes. The efficacy of such interventions may be enhanced by the gut microbiota (GM), which plays a role in mediating glucose-lowering effects through the increased abundance of short-chain fatty acid (SCFA)-producing bacteria. We determined the effect of combined linagliptin+metformin vs metformin monotherapy on GM composition and its relationship to insulin sensitivity (IS) and pancreatic β-cell function (Pβf) in patients with prediabetes without a previous treatment and compared it between metformin monotherapy and the combination of linagliptin+metformin. A double-blind, randomized parallel clinical trial was conducted in 167 Mexican adults with prediabetes for 12 months. We analyzed the effects of the two treatments on GM using the machine learning algorithm (random forest) and mediation analysis with two structural equation models (SEM) to determine the relationship between body composition, IS, Pβf, and bacterial genera. These treatments modify GM composition, by increasing the abundance of SCFA-producing bacteria [Metformin (Fusicatenibacter and Blautia) and Linagliptin/metformin (Roseburia, Bifidobacterium and [Eubacterium] hallii group)].

@@ -1,0 +1,13 @@
++++
+authors = ["Christian Lieven", "Moritz E. Beber, Brett G. Olivier", "Frank T. Bergmann", "Meric Ataman", "Parizad Babaei", "Jennifer A. Bartell", "Lars M. Blank", "Siddharth Chauhan", "Kevin Correia", "Christian Diener", "Andreas Dräger", "Birgitta E. Ebert", "Janaka N. Edirisinghe", "Jose P. Faria", "Adam Feist", "Georgios Fengos", "Ronan M. T. Fleming", "Beatriz García-Jiménez", "Vassily Hatzimanikatis", "Wout van Helvoirt", "Christopher S. Henry", "Henning Hermjakob", "Markus J. Herrgård", "Hyun Uk Kim", "Zachary King", "Jasper J. Koehorst", "Steffen Klamt", "Edda Klipp", "Meiyappan Lakshmanan", "Nicolas Le Novère", "Dong-Yup Lee", "Sang Yup Lee", "Sunjae Lee", "Nathan E. Lewis", "Hongwu Ma", "Daniel Machado", "Radhakrishnan Mahadevan", "Paulo Maia", "Adil Mardinoglu", "Gregory L. Medlock", "Jonathan M. Monk", "Jens Nielsen", "Lars Keld Nielsen", "Juan Nogales, Intawat Nookaew", "Osbaldo Resendis-Antonio", "Bernhard O. Palsson", "Jason A. Papin", "Kiran R. Patil", "Mark Poolman", "Nathan D. Price", "Anne Richelle", "Isabel Rocha", "Benjamin J. Sanchez", "Peter J. Schaap", "Rahuman S. Malik Sheriff", "Saeed Shoaie", "Nikolaus Sonnenschein", "Bas Teusink", "Paulo Vilaça", "Jon Olav Vik, Judith A. Wodke", "Joana C. Xavier", "Qianqian Yuan", "Maksim Zakhartsev", "Cheng Zhang"]
+title = "Memote: A community driven effort towards a standardized genome-scale metabolic model test suite"
+journal = "Nature Biotechnology"
+what = "article"
+doi = "10.1101/350991"
+pubmed = "32123384"
+date = "2020-03-02"
++++
+
+Several studies have shown that neither the formal representation nor the functional requirements of genome-scale metabolic models (GEMs) are precisely defined. Without a consistent standard, comparability, reproducibility, and interoperability of models across groups and software tools cannot be guaranteed.
+Here, we present memote (https://github.com/opencobra/memote) an open-source software containing a community-maintained, standardized set of metabolic model tests. The tests cover a range of aspects from annotations to conceptual integrity and can be extended to include experimental datasets for automatic model validation. In addition to testing a model once, memote can be configured to do so automatically, i.e., while building a GEM. A comprehensive report displays the model’s performance parameters, which supports informed model development and facilitates error detection.
+Memote provides a measure for model quality that is consistent across reconstruction platforms and analysis software and simplifies collaboration within the community by establishing workflows for publicly hosted and version controlled models.
