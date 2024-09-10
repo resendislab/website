@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+<style>
+    .card .mdl-card__supporting-text {
+        padding: 2rem 4%;
+    }
+</style>
+<div class="page-content mdl-grid">
+{{ range .Data.Pages }}
+<div class="mdl-cell mdl-cell--12-col-desktop mdl-cell--8-col mdl-cell--4-col-phone mdl-cell--8-col-tablet">
+<div class="card mdl-card mdl-shadow--4dp">
+<div class="mdl-card__title">
+    <h1 class="mdl-card__title-text">{{ .Title }}</h1>
+</div>
+<div class="mdl-card__supporting-text">
+{{ .Content }}
+</div></div></div>
+{{ end }}</div>
+{{ partial "footer.html" . }}
