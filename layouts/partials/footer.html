@@ -1,13 +1,11 @@
-	</main>
+</main>
 </div>
 
-<script defer
-        src="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.min.js"></script>
-
-<script>
-  if (typeof componentHandler !== 'undefined') {
-    componentHandler.upgradeDom();
-  }
+<script src="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.min.js"></script>
+<script src="{{ "js/prism.js" | absURL }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/contrib/auto-render.min.js"></script>
+<script src="{{ "js/site.js" | absURL }}"></script>
 
 </body>
 </html>
