@@ -5,19 +5,26 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="Webpage of the Resendis Lab">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
   {{ hugo.Generator }}
+
   <title>{{ .Site.Title }}</title>
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-  <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.{{ .Site.Params.mdltheme }}.min.css">
+
+  <link rel="stylesheet"
+        href="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.{{ .Site.Params.mdltheme }}.min.css">
+
   <link rel="stylesheet" href="{{ "css/styles.css" | absURL }}">
   <link rel="icon" type="image/png" href="{{ "media/favicon.png" | absURL }}">
+
 </head>
 
-<script defer src="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.min.js"></script>
-
 <body>
+
+<script defer
+        src="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.min.js"></script>
 
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
   <header class="mdl-layout__header mdl-layout--small-screen-only"></header>
@@ -26,6 +33,7 @@
     <a class="mdl-layout-title" href="{{ "/" | absURL }}">
       <img src="{{ "media/logo.png" | absURL }}" width="80%" style="margin-top: 2em">
     </a>
+
     <nav class="mdl-navigation">
       <a class="mdl-navigation__link" href="{{ "/" | absURL }}">Home</a>
       <a class="mdl-navigation__link" href="{{ "/about" | absURL }}">About</a>
@@ -40,3 +48,4 @@
   </div>
 
   <main class="mdl-layout__content mdl-color--grey-100">
+
