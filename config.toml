@@ -1,4 +1,4 @@
-baseurl = "https://resendislab.github.io"
+baseURL = "https://resendislab.github.io"
 languageCode = "en-us"
 title = "Webpage of the Resendis Lab"
 relativeURLs = true
