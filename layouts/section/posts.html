@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+<div class="page-content mdl-grid">
+<div class="mdl-cell mdl-cell--12-col mdl-cell--4-col-phone mdl-cell--8-col-tablet" style="margin-bottom: 2em">
+    <div class="card mdl-card mdl-shadow--4dp">
+    <div class="mdl-card__title mdl-color--indigo-900" style="height:auto">
+        <h1 class="mdl-card__title-text">Blog</h1>
+    </div>
+    </div>
+</div>
+{{ range .Data.Pages }}
+<div class="mdl-cell mdl-cell--4-col">
+<div class="card mdl-card mdl-shadow--4dp">
+<div class="mdl-card__title image-card" {{ if .Params.hero }}style="background: url('/media/{{.Params.hero}}') center / cover"{{end}}>
+	<h1 class="mdl-card__title-text">{{ .Title }}</h1>
+</div>
+	<div class="mdl-card__supporting-text">
+    <p class="spaced">
+    <span class="mdl-typography--caption-color-contrast">{{.Date.Format "02-01-2006"}}</span>
+    <span class="mdl-typography--caption-color-contrast right">{{.ReadingTime}}m read</span></p>
+    <h3 class="mdl-color-text--teal-500">by {{ .Params.author}}</h3>
+	<p>{{ .Summary }}</p>
+	</div>
+	<div class="mdl-card__actions mdl-card--border">
+	<a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect"
+        href="{{.RelPermalink}}">Read more...</a>
+</div></div></div>
+{{end}}
+</div>
+{{ partial "footer.html" . }}
