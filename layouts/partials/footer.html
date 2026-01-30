@@ -1,7 +1,13 @@
 	</main>
 </div>
 
-<script src="https://storage.googleapis.com/code.getmdl.io/{{.Site.Params.mdlversion}}/material.min.js"></script>
+<script defer
+        src="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.min.js"></script>
+
+<script>
+  if (typeof componentHandler !== 'undefined') {
+    componentHandler.upgradeDom();
+  }
 
 </body>
 </html>
