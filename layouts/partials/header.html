@@ -13,12 +13,11 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-  <link rel="stylesheet"
-      href="https://code.getmdl.io/{{ .Site.Params.mdlversion }}/material.{{ .Site.Params.mdltheme }}.min.css">
+  <!-- ✅ LOCAL MDL CSS -->
+  <link rel="stylesheet" href="{{ "css/material.indigo-green.min.css" | absURL }}">
 
   <link rel="stylesheet" href="{{ "css/styles.css" | absURL }}">
   <link rel="icon" type="image/png" href="{{ "media/favicon.png" | absURL }}">
-
 </head>
 
 <body class="mdl-layout__container">
@@ -45,4 +44,3 @@
   </div>
 
   <main class="mdl-layout__content mdl-color--grey-100">
-
