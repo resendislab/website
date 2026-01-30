@@ -1,35 +1,42 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="description" content="Webpage of the Resendis Lab">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-	{{ hugo.Generator }}
-	<title>{{ .Site.Title }}</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Webpage of the Resendis Lab">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  {{ hugo.Generator }}
+  <title>{{ .Site.Title }}</title>
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700" type="text/css">
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-	<link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.{{.Site.Params.mdltheme}}.min.css">
-	<link rel="stylesheet" href="/css/styles.css">
-    <link rel="icon" type="image/png" href="/media/favicon.png" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.{{ .Site.Params.mdltheme }}.min.css">
+  <link rel="stylesheet" href="{{ "css/styles.css" | absURL }}">
+  <link rel="icon" type="image/png" href="{{ "media/favicon.png" | absURL }}">
 </head>
+
+<script defer src="https://storage.googleapis.com/code.getmdl.io/{{ .Site.Params.mdlversion }}/material.min.js"></script>
+
 <body>
+
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
-<header class="mdl-layout__header mdl-layout--small-screen-only">
- </header>
-<div class="mdl-layout__drawer">
-	<a class="mdl-layout-title" href="/"><img src="/media/logo.png" width="80%" align="middle" style="margin-top: 2em"></a>
-	<nav class="mdl-navigation">
-	  <a class="mdl-navigation__link" href="/">Home</a>
-	  <a class="mdl-navigation__link" href="/about">About</a>
-      <a class="mdl-navigation__link" href="/members">Members</a>
-	  <a class="mdl-navigation__link" href="/positions">Work with us</a>
-	  <a class="mdl-navigation__link" href="/pubs">Publications</a>
-	  <a class="mdl-navigation__link" href="/projects">Projects</a>
-	  <a class="mdl-navigation__link" href="/software">Software</a>
-      <a class="mdl-navigation__link" href="/events">Events</a>
-	  <a class="mdl-navigation__link" href="/about/#directions">Contact</a>
-	</nav>
-</div>
-<main class="mdl-layout__content mdl-color--grey-100">
+  <header class="mdl-layout__header mdl-layout--small-screen-only"></header>
+
+  <div class="mdl-layout__drawer">
+    <a class="mdl-layout-title" href="{{ "/" | absURL }}">
+      <img src="{{ "media/logo.png" | absURL }}" width="80%" style="margin-top: 2em">
+    </a>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="{{ "/" | absURL }}">Home</a>
+      <a class="mdl-navigation__link" href="{{ "/about" | absURL }}">About</a>
+      <a class="mdl-navigation__link" href="{{ "/members" | absURL }}">Members</a>
+      <a class="mdl-navigation__link" href="{{ "/positions" | absURL }}">Work with us</a>
+      <a class="mdl-navigation__link" href="{{ "/pubs" | absURL }}">Publications</a>
+      <a class="mdl-navigation__link" href="{{ "/projects" | absURL }}">Projects</a>
+      <a class="mdl-navigation__link" href="{{ "/software" | absURL }}">Software</a>
+      <a class="mdl-navigation__link" href="{{ "/events" | absURL }}">Events</a>
+      <a class="mdl-navigation__link" href="{{ "/about/#directions" | absURL }}">Contact</a>
+    </nav>
+  </div>
+
+  <main class="mdl-layout__content mdl-color--grey-100">
