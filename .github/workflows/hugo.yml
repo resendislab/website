@@ -48,6 +48,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          personal_token: ${{ secrets.RESENDIS_LAB_2023 }}
-          external_repository: resendislab/resendislab.github.io
+
